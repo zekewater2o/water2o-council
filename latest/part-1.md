@@ -1,4 +1,4 @@
-[Master document version 2, part 1 of 2]
+[Master document version 3, part 1 of 2]
 
 # ZEKE'S OPERATING MANUAL
 ### Water₂O training manual: how the company works. Read this first.
@@ -194,6 +194,7 @@ Read this before you contact anyone or spend anything. Rules at the top outrank 
 - **Rule 1: no easy way out, Zeke is the last resort.** Before asking Zeke to do anything, try every route: saved logins and "Sign in with Google", codes from his inboxes, APIs and connectors, another agent, a phone call. Only when there is 100% no other way does it go to him, with one line on what you tried. Why: Tabitha once told him only he could get a Slack invite, then got it herself. (Oct 18 2026, m:bea82b92)
 - **Rule 2: always available.** Water₂O means availability. Every customer gets a reply within seconds or minutes, and every inbound customer text gets an answer. Push Zeke until each one is answered. (Oct 19 2026, m:811c37d3; Oct 21 2026, m:a26c6043)
 - **Rule 3: every ask is forever.** It is worked on until done and never needs a reminder. (Oct 21 2026, m:a26c6043)
+- **Rule 4: look before you ask.** Before asking Zeke for any file, photo, video, document, code or fact, search every place it could already be: zeke@ Drive (recent files and folders named after the client), chezy4 Drive and Google Photos, both Gmails, the WhatsApp transcript, the CRM (media, lead notes, texts), the Slack agent channels and files on Tab's box. Ask only when all of them are empty, and say in one line where you looked. Why: on Oct 27 Zeke uploaded the North Lake video to his own Drive at 12:15 PM and Tabitha kept asking him for it until 4:22 PM. Detail: memory/look-before-you-ask-rule.md. (Oct 27 2026, m:e66400a5)
 - **Truth.** Never say "sent" or "done" without the receipt. Anything unproven is "unverified". Check settings and bills live before reporting them. (Oct 14 to 18 2026, Bible v2.6 B1)
 
 ### Outward words: Zeke OKs the exact wording
@@ -281,6 +282,9 @@ Read this before you contact anyone or spend anything. Rules at the top outrank 
 - Close it with evidence: `ledger.py set <id> status=done note="<evidence>"`. (Oct 21 2026, m:a26c6043)
 - An ask he repeats goes to the top of the list, with a status in every brief, until done. (Oct 18 2026, memory/lessons-learned.md)
 - Fields and full detail: memory/ask-ledger-rule.md.
+
+### Gaps found and fixed (dated)
+- **Oct 27 2026: media Zeke uploads himself to Drive went unseen for 6 h.** He put the North Lake video in his own Drive at 12:15 PM; Tabitha only checked Google Photos and kept asking him for it. Fix: the look-before-you-ask rule (Rule 4 above) plus a 10-minute Drive watcher. Full list of gaps and fixes: files/departments/gaps-and-fixes.md. (m:e66400a5)
 
 ## 5. Voice and style
 
@@ -740,13 +744,3 @@ Where Water₂O buys equipment and parts, who to call first, and how every vendo
 ### Find a vendor in 10 seconds
 - Search: `python3 files/vendors/find.py "<state, metro or city>" [type]` (add `--all` to include declined and avoid rows). (memory/vendor-registry-rule.md)
 - Open REGISTRY.md and read the "Top pick per area" block first. Top pick = a vendor we have worked with, else the best price. (files/vendors/REGISTRY.md)
-- The registry is the one place to look things up. When you create a CRM vendor, keep it in sync (additive). (memory/vendor-registry-rule.md)
-
-### Where we buy, by category
-Softener and carbon tanks, valves, resin, media:
-- Impact Water Products (A.O. Smith, Inland Empire): our #2 supplier. Clack parts, softeners, RO, commercial.  Read every Impact invoice or shipping mail for tracking the day it lands (missed once Oct 15). Keep calls short: "They're busy, don't annoy them with AI." (registry; Oct 7 2026, memory/chezy.md)
-- American Water Products (AWP, Fountain Valley): our main filtration supplier. Zeke trusts AWP as is but double-checks. AWP ships to Grand Water's shop when Jason installs. (memory/REGISTRY.md; registry)
-- Nelsen Corporation (Phoenix area): our #3 supplier, ships to California. System plus delivery quotes on file. (registry; memory/vendors_REGISTRY.md)
-- Ferguson Plumbing Supply (Van Nuys branch): water treatment supply house, also tanks, resin, carbon and Clack valves. (registry)
-
-RO units:
