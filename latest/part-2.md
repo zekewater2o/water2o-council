@@ -1,5 +1,15 @@
-[Master document version 2, part 2 of 2]
+[Master document version 3, part 2 of 2]
 
+- The registry is the one place to look things up. When you create a CRM vendor, keep it in sync (additive). (memory/vendor-registry-rule.md)
+
+### Where we buy, by category
+Softener and carbon tanks, valves, resin, media:
+- Impact Water Products (A.O. Smith, Inland Empire): our #2 supplier. Clack parts, softeners, RO, commercial.  Read every Impact invoice or shipping mail for tracking the day it lands (missed once Oct 15). Keep calls short: "They're busy, don't annoy them with AI." (registry; Oct 7 2026, memory/chezy.md)
+- American Water Products (AWP, Fountain Valley): our main filtration supplier. Zeke trusts AWP as is but double-checks. AWP ships to Grand Water's shop when Jason installs. (memory/REGISTRY.md; registry)
+- Nelsen Corporation (Phoenix area): our #3 supplier, ships to California. System plus delivery quotes on file. (registry; memory/vendors_REGISTRY.md)
+- Ferguson Plumbing Supply (Van Nuys branch): water treatment supply house, also tanks, resin, carbon and Clack valves. (registry)
+
+RO units:
 - Under-sink RO units are the one product we supply in-house, ordered from China in batches of about 15 to 25 (ChatGPT "Business Interview Prompt"). The registry records Jeefy, an online supplier, at $230 per RO V2 unit; whether Jeefy is that source is UNVERIFIED. (registry)
 
 Filters and media: Impact, AWP and Ferguson carry resin, carbon and filter media. (registry)
@@ -193,6 +203,7 @@ The AI team (one line each):
 - A truck, van, yard sign or business card = a partnership lead: research the company, score four angles (referral partner, subcontractor, install partner, client), draft outreach, hold for his OK. (Oct 22 2026, m:8ffbff2b)
 - Public content: real photos only, no AI images; never a customer's face, name or house number; never the installer's face. (Oct 20 2026; Oct 9 2026)
 - Phone photos reach Tab through Google Photos (camera scan every 4 hours). Full detail: appendix/07-photo-media.md.
+- Zeke also uploads job media to his own Drive (zeke@, folders named after the client). A Drive watcher checks it every 10 minutes, matches each file to the CRM lead and tells Tabitha when it answers an open ask; nobody asks him for a file that is already there. (Oct 27 2026, m:e66400a5; files/drive-watch/README.md)
 
 ### The IT agent
 - Charter: files/it-agent/IT-AGENT.md. Why: "Make an agent specifically around IT, so these things never happen again." (Oct 20 2026)
@@ -319,4 +330,5 @@ Until Zeke answers, follow the interim default shown and ask him with a draft be
 - Oct 26 2026 (v3.0, lead worker 67b55514, Zeke m:644c34c8): rewritten from v2.1 (144,331 words, Part I + Bible + Core Rules repeating each other) into a 20,083-word training manual in 15 sections, every rule said once (newest wins, dated, sourced). New: section 8 job scopes (Audi DTLA first example), section 9 past proposals index (156 CRM estimates, code-generated), section 13 where everything lives (link hub, code-generated), section 10 sourcing (vendor registry, National Tank Outlet, Norwesco). Full v2.1 detail moved to appendix 01 to 13; archive kept. Refresh changed to a free daily plain-code collector plus a 3-day AI merge that runs only when the inbox has items (schedule a24396c5 replaced accfda43).
 - Oct 26 2026 (proof-and-pricing sweep, worker 4385ffe3): folded Zeke's T964 answers (WhatsApp voice m:8f3636fd, m:e805484e) straight into section 6 (baseline = best online price + 45%, case by case allowed; proof line 1,000+ FINAL, never ask again), section 6 and 11 (Jason Sok $150 per job after the license contract; Audi 40% profit split was case by case). Removed the proof line from section 15. DOCX/PDF/Drive/Slack sync left for the next 3-day merge.
 - 2026-10-26 evening (v3.1, worker ccdd97e6, direct merge with the Grok pack v2): folded 15 new rules and decisions from Oct 26 afternoon into sections 4, 5, 6, 8 and 12 (passwords in one place, ignore Thomas BAI, always send links, shirt wording, one estimate per project, CRM job scope button, CRM history and unknown-number naming, books with invoice files, dashboard keyword search, reel lab, reel cadence, Viral Coach, LinkedIn). Rebuilt DOCX and PDF.
+- Oct 27 2026 (gap fix, Zeke m:e66400a5): added Rule 4 "look before you ask" to section 4, a "Gaps found and fixed" list at the end of section 4, and a Drive watcher line in section 12 (photos and media). Direct edit; DOCX/PDF/Drive/Slack sync left for the next 3-day merge.
 
