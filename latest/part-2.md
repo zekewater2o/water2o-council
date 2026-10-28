@@ -1,5 +1,48 @@
-[Master document version 3, part 2 of 2]
+[Master document version 4, part 2 of 2]
 
+- 2026-08-14 · George Linder's Kitchen Water · $1,945 · https://app.water2o.com/estimates/97ece043-ddac-4a46-99e3-986d9de65ba7
+- 2026-08-10 · Erica Livingston's Home Water · Los Angeles · $5,048 · https://app.water2o.com/estimates/3e116dbb-1126-4318-a53e-af9d64bed719
+
+### Proposal and job pages to copy from
+- Audi Downtown LA proposal (sent to Julian Oct 21): [link on view.water2o.com removed]
+- Audi Downtown LA car wash job brief: https://audi-dtla-wash.sites.tab.bot/
+- Audi DTLA car wash job brief (PDF): [link on zeke-dashboard.sites.tab.bot removed]
+- Hot Wax estimate for Audi DTLA (competitor, PDF): [link on zeke-dashboard.sites.tab.bot removed]
+- Houston install walkthrough (Louie T.): https://louie-houston-walkthrough.sites.tab.bot/
+- CRM estimates: https://app.water2o.com/estimates
+- Beverly Hills Estates pitch (PDF): [link on zeke-dashboard.sites.tab.bot removed]
+- Beverly Hills Estates pitch, option 2 (PDF): [link on zeke-dashboard.sites.tab.bot removed]
+- Cindy K. Texas opportunity memo (PDF): [link on zeke-dashboard.sites.tab.bot removed]
+- Jason Sok platform plan (PDF): [link on zeke-dashboard.sites.tab.bot removed]
+- Cognoscenti water plan (draft PDF): [link on zeke-dashboard.sites.tab.bot removed]
+- Josh R. water plan (PDF): [link on zeke-dashboard.sites.tab.bot removed]
+- G. invoice 1002, $3,475 (PDF): [link on zeke-dashboard.sites.tab.bot removed]
+- Jason Sok installation agreement v4 (Drive PDF): https://drive.google.com/file/d/1h5WcmPCz2wPnkFpcYKCOWNCJeGqaXLod/view
+- Jason Sok agreement legal notes (Google Doc): https://docs.google.com/document/d/1-zGESzhEdxnFJgN7Lup9KJE8OXdjEJWgX442GP3sNrI/edit
+
+### Pitch decks and plans to copy from
+- files/audi-downtown-la/HotWax-Estimate-E05232041-AudiDTLA-with-scope-letter.pdf (2026-10-22)
+- files/visits/e476fb1a-d47e-4dce-b9d1-e143bc5f6fc0/installer-scope.pdf (2026-10-21)
+- files/altadena-system/north-lake-villas-scope.pdf (2026-10-21)
+- files/Roundtable2-and-HeyPickle.pdf (2026-10-20)
+- files/Cindy-K.-Texas-Opportunity-Memo.pdf (2026-10-20)
+- files/Water2O-B2B-Campaign-Plan-v4.pdf (2026-10-19)
+- files/water-tanks/Fidelibus-Tank-Proposal-Oct19.pdf (2026-10-19)
+- files/water-tanks/Fidelibus-Tank-Proposal-Oct19-v2.pdf (2026-10-19)
+- files/proposals/josh-ryan/before.html (2026-10-19)
+- files/proposals/josh-ryan/after.html (2026-10-19)
+- files/card-playbook.pdf (2026-10-18)
+- files/sce-400a-commercial-playbook.pdf (2026-10-18)
+
+Rule of thumb: before writing a new proposal, find the closest past one here (same system, same kind of customer) and start from it. Prices always come from the current CRM catalog, never from an old proposal.
+
+## 10. Sourcing: vendors and suppliers
+
+Where Water₂O buys equipment and parts, who to call first, and how every vendor gets logged. The live list is the vendor registry: `files/vendors/REGISTRY.md` (124 vendors on Oct 26 2026, grouped by state, metro and type, worked-with first, then best price). Full detail: appendix/09-partners-vendors-installers.md.
+
+### Find a vendor in 10 seconds
+- Search: `python3 files/vendors/find.py "<state, metro or city>" [type]` (add `--all` to include declined and avoid rows). (memory/vendor-registry-rule.md)
+- Open REGISTRY.md and read the "Top pick per area" block first. Top pick = a vendor we have worked with, else the best price. (files/vendors/REGISTRY.md)
 - The registry is the one place to look things up. When you create a CRM vendor, keep it in sync (additive). (memory/vendor-registry-rule.md)
 
 ### Where we buy, by category
@@ -193,7 +236,7 @@ The AI team (one line each):
 - Instagram @homewater2o is connected; approved trial reels post through Instagram's own API with private, expiring video links, never a public file host. (Oct 18 2026)
 - Every public post, profile edit or review reply is a draft until Zeke OKs the exact words. (public-presence charter, files/public-presence/PUBLIC-PRESENCE-AGENT.md)
 - water2o.com runs on Lovable (its own project, separate from the CRM). Work on a branch or preview; nothing is published to water2o.com without Zeke's OK. (schedules 8e3e520c, c97bb60e)
-- Reels learn by code: before any reel edit, read files/content/reel-lab/RULES.md. Plain code pulls Instagram insights every day and rewrites those rules, keeping what works and dropping what does not. (Oct 26 2026, m:37bbb060; memory/reel-lab-rule.md)
+- Reels learn by code: before any reel edit, read files/content/reel-lab/RULES.md (every edit is Claude's, see section 4 "Video editing: only Claude"). Plain code pulls Instagram insights every day and rewrites those rules, keeping what works and dropping what does not. (Oct 26 2026, m:37bbb060; memory/reel-lab-rule.md)
 - Trial reels: one every 24 hours at 11 AM; after all 7, the best one goes to the main feed on Zeke's "feed it". (Oct 26 2026, m:66332185)
 - Viral Coach: never sign up for the paid program; use its method for $0 (3 reels a week, face or voice in the first 2 seconds, "Comment SALT", scorecard on DMs and booked tests). (Oct 26 2026, m:e3806520; files/marketing/viral-coach/)
 - LinkedIn: the login is in Tab's vault; the Week 2 post is live on the Water₂O company page (Oct 26 2026). Banner proof line: "1,000+ Systems Installed". (Oct 26 2026, m:1ef7dd9a; memory/linkedin-ownership.md)
@@ -327,8 +370,10 @@ Until Zeke answers, follow the interim default shown and ask him with a draft be
 - RO capacity: the CRM product shows 900 GPD; the spec sheet lists 600, 800 and 1,000 GPD options. Interim: quote the spec sheet option that matches the job and flag it.
 
 ## Changelog
+- Oct 27 2026 (AI Tips scout, worker 9a6d5e13, Zeke m:653842a7): added "From AI Tips & Tricks (Oct 27 2026)" under section 3 Growth levers: past-customer reactivation, agent safety rule, Claude Duet try; watch list marked unverified.
 - Oct 26 2026 (v3.0, lead worker 67b55514, Zeke m:644c34c8): rewritten from v2.1 (144,331 words, Part I + Bible + Core Rules repeating each other) into a 20,083-word training manual in 15 sections, every rule said once (newest wins, dated, sourced). New: section 8 job scopes (Audi DTLA first example), section 9 past proposals index (156 CRM estimates, code-generated), section 13 where everything lives (link hub, code-generated), section 10 sourcing (vendor registry, National Tank Outlet, Norwesco). Full v2.1 detail moved to appendix 01 to 13; archive kept. Refresh changed to a free daily plain-code collector plus a 3-day AI merge that runs only when the inbox has items (schedule a24396c5 replaced accfda43).
 - Oct 26 2026 (proof-and-pricing sweep, worker 4385ffe3): folded Zeke's T964 answers (WhatsApp voice m:8f3636fd, m:e805484e) straight into section 6 (baseline = best online price + 45%, case by case allowed; proof line 1,000+ FINAL, never ask again), section 6 and 11 (Jason Sok $150 per job after the license contract; Audi 40% profit split was case by case). Removed the proof line from section 15. DOCX/PDF/Drive/Slack sync left for the next 3-day merge.
 - 2026-10-26 evening (v3.1, worker ccdd97e6, direct merge with the Grok pack v2): folded 15 new rules and decisions from Oct 26 afternoon into sections 4, 5, 6, 8 and 12 (passwords in one place, ignore Thomas BAI, always send links, shirt wording, one estimate per project, CRM job scope button, CRM history and unknown-number naming, books with invoice files, dashboard keyword search, reel lab, reel cadence, Viral Coach, LinkedIn). Rebuilt DOCX and PDF.
 - Oct 27 2026 (gap fix, Zeke m:e66400a5): added Rule 4 "look before you ask" to section 4, a "Gaps found and fixed" list at the end of section 4, and a Drive watcher line in section 12 (photos and media). Direct edit; DOCX/PDF/Drive/Slack sync left for the next 3-day merge.
 
+- 2026-10-28 (v3.2, worker 8e1c942b, Zeke m:8e8a9981): DIRECT EDIT. Added the Claude-only video editing rule (section 4), Zeke's Bible link to the Elly Watson reel (section 3) and a pointer on the reel lab line (section 12). Setup notes files/ai-bible/SETUP.md; routing list memory/video-editing-owner.md. Backup ZEKE-OPERATING-MANUAL.bak-claude-video-20261028.md. DOCX/PDF and the Drive copies are left for the next merge (inbox.md carries the item).
