@@ -1,7 +1,102 @@
-[Master document version 4, part 2 of 2]
+[Master document version 5, part 2 of 2]
 
-- 2026-08-14 · George Linder's Kitchen Water · $1,945 · https://app.water2o.com/estimates/97ece043-ddac-4a46-99e3-986d9de65ba7
-- 2026-08-10 · Erica Livingston's Home Water · Los Angeles · $5,048 · https://app.water2o.com/estimates/3e116dbb-1126-4318-a53e-af9d64bed719
+- Referral fees: "we pay referral fees on completed projects". Never a $ or % in writing; money terms are for the call. (Oct 21 2026, m:ba1c00a3)
+- Cold outreach CTA is in person ("stop by, 10 minutes this week"), never just a link. (replaces "reply / quick call"; Oct 14 2026, memory/lead-photos-handoff.md)
+- Use only real referral stories; never fabricate one. (memory/lead-photos-handoff.md)
+- Partners stay off Speed to Lead; tag them referral_partner plus trade. (Bible B3)
+
+### Sales frameworks (one line each)
+- Lens for every decision: Musk (first principles), Carnegie, Belfort, Hormozi, Donald Miller's StoryBrand, plus the best water expert in the world. (Brief)
+- NEPQ (Jeremy Miner): ask questions that let the customer find the problem and its cost themselves, then the fix. (Bible, NEPQ)
+- Straight line (Belfort): keep every conversation moving toward a yes with certainty and calm tone; draft the close for Zeke's OK. (Bible 4)
+- Hormozi offer: make the value obvious and the risk feel low; when the result feels certain and easy, price stops being the issue. (Bible 4)
+- Carnegie: don't argue; make the other person feel important. (Bible 4)
+- Growth playbook (TMM: target, method, messaging) is pending Zeke's go: appendix/06-sales.md.
+
+## 8. Job scopes and how we write them
+
+At Water₂O "job scope" means two things. Know which one you are writing.
+- The CRM scope: the water test and site form filled after every visit (readings, fixtures, distances, install location). The customer sees the water test part on their link. (Oct 20 2026, memory/job-scope-style.md)
+- The client-facing job scope page: a web page that shows the customer exactly what the install will look like, the space to save, what they must provide (power, water line, drain, canopy), what Water₂O provides, and the open items. Used for commercial and custom jobs. (Oct 26 2026, m:d21a1b6d) [first built Oct 26 2026]
+
+### Why the page is a link, not a PDF
+- Zeke asked for "the most convenient, lowest cognitive load job scope" for the customer "to view and scroll through". The answer is a web link: one tap on a phone, then scroll. (Oct 26 2026, m:39094681; Tab's reply T953)
+- No separate PDF "just in case": "Why wouldn't he be able to forward a link just like he can forward a PDF?" A link forwards the same way. (Oct 26 2026, m:ca6d075a; Tab's reply T954)
+- The address must be ours: view.water2o.com/scope/<job>. Never show tab.bot to a customer. (Oct 26 2026, m:ca6d075a)
+
+### What goes on a job scope page, in order
+1. Header: Water₂O name and logo, project line (site, prepared for, date). NAP: [address removed], Los Angeles, CA 90016, [phone removed], water2o.com, CSLB 975276. (Brief; Oct 20 2026, NAP)
+2. A real photo of the spot where the system goes. Real photos only, never AI. (No AI images rule, Oct 2026)
+3. A to-scale layout drawing: top view and front view, every dimension in ft and in, the total footprint to save. Service clearance is shown and labeled as recommended clearance. [inferred: clearance is our recommendation, not a stated spec]
+4. "What we need from you": big cards, one per item (power, outlets, water line, drain, canopy), each in a few words.
+5. "What Water₂O provides": only what Zeke stated.
+6. Open items: anything not yet known, marked "to confirm with Zeke".
+7. A tap-to-call button for [phone removed].
+
+### Style rules for the page
+- Only facts Zeke stated. Invent no prices, specs, models or dimensions. If a number is missing it is an open item. (Oct 26 2026, mission brief)
+- Low cognitive load: short lines, big type, few words, nothing to decode. Problem-focused, super clean, prestigious. (Oct 20 2026, m:010581a6)
+- Keep it tight. Product pages were cut about 56% on Oct 20 and must not grow back; the same applies here. [inferred] (Oct 20 2026, memory/water2o-products-preview.md)
+- Show it to Zeke first. The link goes to the customer only after his OK. (Brief)
+
+### Style rules for the CRM scope (Zeke's own edits, Oct 20 2026)
+Zeke: "You had a lot of words and a lot of run-on explanations... that's exactly the opposite of my style... make rules around it." (Oct 20 2026, m:a3f7ac85)
+- Short fragments. Sparse, uncrowded, no run-ons.
+- Readings are one number, nothing after it: pH "7.5", never "7.5 to 8 (color match)".
+- No parentheses, no source tags, no "per call", "per video", no dates of when we saw it.
+- Never write "confirm", "TBD", "ask Kyle", "not measured" or "unknown". Unsure: best value plus "?", or leave it blank.
+- Location fields: 1 to 3 words ("Kitchen sink"). Distance fields: a number and ft ("10 ft").
+- Free text boxes: one short line, about 10 words, only what changes the job. No brand inventory or colors.
+- Scope notes are usually empty; if used, 1 or 2 plain sentences saying the job, never a status report.
+- Sales history (referral source, ballpark price, call recap) goes in a project note, not the scope.
+- Fill every number we have; leave blank only what is truly unknown. Missing info goes to Zeke in your report, not into the scope.
+- Read every box as the customer will on their link; anything internal comes out.
+(All: Oct 20 2026, memory/job-scope-style.md)
+
+### Estimate and proposal pages that go with a scope
+- Estimate lines say "Installation", not "Installation & Startup". Real catalog name on the main system line, short descriptions. (Oct 19 to 21 2026, memory/scope-fill-oct21.md, memory/water2o-proposal-style.md)
+- Product preview pages: the customer can tap any product photo to see it installed; rail headings show the count ("Two ice makers. Pick one."); the 3 steps sit inside the quote card; a 1-second strike line replaced the slow pinned scroll stage. (Oct 20 2026, memory/water2o-products-preview.md)
+- Split every proposal three ways so no piece is long (Oct 30 2026, m:4b3825f6, m:f5c0e8c5, m:b95ebe71): (1) the email body carries the why, the education and the few questions, short, no prices; (2) the CRM estimate carries every price; (3) the job scope preview page carries no numbers, only what they get, cleanly, with real images (for example the descaling service). The page is classy and impressive like the builder page, with even less to read; never a "college report" PDF with diagrams and paragraphs.
+- CRM product library images look like Apple's product shots: the real unit cut out, straight-on, centered on pure white, comfortable padding, not too large, matching the others. Never drop a raw install or job-site photo into the library. (Oct 30 2026, m:dc875ba3; memory/job-scope-style.md)
+- Full pricing and estimate rules: section 6.
+
+### First example: Audi Downtown LA (Julian Kim)
+- The first job scope built this way: Julian Kim's Audi dealership car wash in downtown LA (page [link on view.water2o.com removed] job folder files/julian-kim-audi-dtla/). Everything Zeke stated about the site (tanks, wall RO, power, water line, canopy) is in appendix/10-projects-in-flight.md; links in section 9. (Oct 26 2026, m:d21a1b6d, m:70f42cf2)
+
+### Earlier scope-like pages (examples)
+(files/link-hub/links.json)
+
+### How to make a new job scope page
+1. Collect Zeke's words (text, voice, video) into files/<client-job>/scope-notes.md, each fact with its message ref.
+2. Wait for everything he said is coming (he may say "hold off until you see the video").
+3. Watch the video and photos fully; transcribe any narration. Pick 2 or 3 real photos of the spot.
+4. List what he stated: equipment and sizes, placement, power, water, drain, canopy. Anything missing becomes an open item, "to confirm with Zeke".
+5. Draw the layout to scale (top and front), dimensions in ft and in, recommended clearance labeled as such.
+6. Write the cards: what we need from you, what Water₂O provides, open items. Few words each.
+7. Build the page at view.water2o.com/scope/<job>. Check it on a phone: one tap, scroll, tap-to-call works, no tab.bot anywhere.
+8. Check: Water₂O spelled right, no em dashes, no invented numbers, no prices unless Zeke gave them.
+9. Send Zeke the link. It goes to the customer only after his OK.
+10. Add the link to the link hub and the CRM project.
+11. Faster route (since Oct 26 2026): in the CRM open the project, scroll to "Job scope pages" (under Test / Scope) and tap "For customer" or "For vendor". It fills the name, address, notes, photos and estimate items (no prices on vendor pages); you add the A/B/C spots and send Zeke the link. (Oct 26 2026, m:55af3f8c)
+
+## 9. Past proposals and presentations
+
+Everything we have quoted or pitched, so you can reuse what worked. The full list (every CRM estimate with its link, every proposal file, every proposal page) is generated by code and lives in appendix/14-past-proposals-index.md (last generated Nov 02 2026).
+
+### Where proposals live
+- CRM estimates: 156 so far (sent 97, paid 27, draft 18, accepted 8, approved 4, declined 1, converted 1). Open one at https://app.water2o.com/estimates/<id>. The estimate is the official quote the customer approves and pays from.
+- Client pages (job scopes, walkthroughs, product pages): branded links, listed below and in section 14.
+- Pitch decks, plans and proposal PDFs: in files/ (paths in appendix/14).
+
+### Recent wins (paid, accepted or approved)
+- 2026-10-27 · Jeannie Nguyen's RO System Replacement · Artesia · $450 · https://app.water2o.com/estimates/e8b74b67-f70d-4e77-9847-048bc2b66d7a
+- 2026-10-19 · Josh's Home Water · Los Angeles · $495 · https://app.water2o.com/estimates/bfa72da7-ddb4-4a81-873f-d6bbbf805e36
+- 2026-10-12 · Naheed Y.'s Filter Replacement · Valley Village · $70 · https://app.water2o.com/estimates/bfb2f19f-5822-4d8c-b9b3-3add61c44f6d
+- 2026-10-02 · Deepak Danavar's Home Water · $7,934 · https://app.water2o.com/estimates/32060757-5273-4a9d-a2ff-c121a50f82ec
+- 2026-09-28 · Jeannie Nguyen's RO Service · Artesia · $225 · https://app.water2o.com/estimates/3c20f920-2018-468a-b2de-713d09147029
+- 2026-09-25 · Katie Melton's RO · $480 · https://app.water2o.com/estimates/b12e747b-fc1e-43ff-b42a-86ad300c6ab0
+- 2026-09-24 · Lynette Sulzman's Drinking Water · $495 · https://app.water2o.com/estimates/36b194b6-4805-4449-b0ef-153a8ad6be19
+- 2026-09-08 · Joydeep (Joy) Banerjee's Home Water · $4,591 · https://app.water2o.com/estimates/2d8fa493-47c8-4699-b800-c777eecff5ff
 
 ### Proposal and job pages to copy from
 - Audi Downtown LA proposal (sent to Julian Oct 21): [link on view.water2o.com removed]
@@ -14,25 +109,16 @@
 - Beverly Hills Estates pitch, option 2 (PDF): [link on zeke-dashboard.sites.tab.bot removed]
 - Cindy K. Texas opportunity memo (PDF): [link on zeke-dashboard.sites.tab.bot removed]
 - Jason Sok platform plan (PDF): [link on zeke-dashboard.sites.tab.bot removed]
-- Cognoscenti water plan (draft PDF): [link on zeke-dashboard.sites.tab.bot removed]
-- Josh R. water plan (PDF): [link on zeke-dashboard.sites.tab.bot removed]
-- G. invoice 1002, $3,475 (PDF): [link on zeke-dashboard.sites.tab.bot removed]
-- Jason Sok installation agreement v4 (Drive PDF): https://drive.google.com/file/d/1h5WcmPCz2wPnkFpcYKCOWNCJeGqaXLod/view
-- Jason Sok agreement legal notes (Google Doc): https://docs.google.com/document/d/1-zGESzhEdxnFJgN7Lup9KJE8OXdjEJWgX442GP3sNrI/edit
 
 ### Pitch decks and plans to copy from
+- files/tankless-ro-decision-deck-483dc665.pdf (2026-10-30)
+- files/couplet-proposal-v2.pdf (2026-10-30)
+- files/procurement/tankless-ro-decision-deck-483dc665.pptx (2026-10-30)
+- files/couplet/couplet-proposal-v3.pdf (2026-10-30)
+- files/couplet/couplet-proposal-v4.pdf (2026-10-30)
+- files/jobs/north-lake/North-Lake-Villas-Job-Scope.pdf (2026-10-28)
+- files/partner-deck/out/kendra-fuchs/Water2O-Welcome-Home-kendra-fuchs.pdf (2026-10-28)
 - files/audi-downtown-la/HotWax-Estimate-E05232041-AudiDTLA-with-scope-letter.pdf (2026-10-22)
-- files/visits/e476fb1a-d47e-4dce-b9d1-e143bc5f6fc0/installer-scope.pdf (2026-10-21)
-- files/altadena-system/north-lake-villas-scope.pdf (2026-10-21)
-- files/Roundtable2-and-HeyPickle.pdf (2026-10-20)
-- files/Cindy-K.-Texas-Opportunity-Memo.pdf (2026-10-20)
-- files/Water2O-B2B-Campaign-Plan-v4.pdf (2026-10-19)
-- files/water-tanks/Fidelibus-Tank-Proposal-Oct19.pdf (2026-10-19)
-- files/water-tanks/Fidelibus-Tank-Proposal-Oct19-v2.pdf (2026-10-19)
-- files/proposals/josh-ryan/before.html (2026-10-19)
-- files/proposals/josh-ryan/after.html (2026-10-19)
-- files/card-playbook.pdf (2026-10-18)
-- files/sce-400a-commercial-playbook.pdf (2026-10-18)
 
 Rule of thumb: before writing a new proposal, find the closest past one here (same system, same kind of customer) and start from it. Prices always come from the current CRM catalog, never from an old proposal.
 
@@ -57,9 +143,7 @@ RO units:
 
 Filters and media: Impact, AWP and Ferguson carry resin, carbon and filter media. (registry)
 
-Salt and salt sensors:
-- Salt: Ace Hardware (Placentia store) is the receipt on file. (Oct 21 2026, memory/receipts-rule.md)
-- EZsalt (Utah): Wi-Fi brine salt sensor with a homeowner app and dealer portal. Worked with us; no dealer ID on file. (registry; memory/lydia-ezsalt-install.md)
+Salt: Ace Hardware; salt sensor: EZsalt (worked with us). Detail: appendix/09.
 
 Plumbing parts, valves and water heaters:
 - Ferguson Van Nuys: we hold an account there (tax-exempt status updated by Ferguson credit services Oct 2026). The resale certificate needs the name fixed to "Water2o LLC" (it says "Water20" with a zero). (registry; Oct 21 2026, T640)
@@ -67,11 +151,7 @@ Plumbing parts, valves and water heaters:
 - Backflow Parts USA (Rancho Cucamonga): PRV source. Use the Watts 1-1/2" LFN45BM1-DU-PR (lead-free, double-union press). The Zurn 70XL PRV is rejected (mixed origin). PRV labor sits inside the whole-home install line. (Oct 19 2026, memory/sean-pressler-visit-oct19.md)
 - Same-day parts from a big-box store: if the store cannot promise delivery within the hour, switch to in-store pickup at once and send the pickup details to whoever is going in one short text. We pay for our own Uber if faster. "Whatever it takes." (Oct 23 2026, m:2c1e960f, m:d0454b63)
 
-Storage tanks (large water tanks):
-- Tiger Tanks (Bakersfield): lowest tank price; hauls away the old tank at delivery if it is disconnected and drained. (Oct 19 2026, memory/water-tanks-wells.md)
-- Loomis Tank Centers (Central Coast): full-service distributor, delivers statewide. Diamond Valley Market (Hemet): top poly tank pick, answers texts. Wright Tank: top pick for Santa Clarita / Antelope Valley. (registry)
-- Norwesco 40213: a black 35 in diameter x 79 in tall storage tank, the model Jason's spec sheet names for the two tanks on the Audi DTLA job (Julian Kim, downtown LA). (Oct 26 2026, m:4d339a87)
-- National Tank Outlet (ntotank.com): national tank seller (Norwesco and others), ships from California and 10 other states. Zeke asked to keep it as a future source (Oct 26 2026, m:4d339a87). It IS in registry.csv (added Oct 26 2026; status not contacted, no quote yet).
+Storage tanks: Tiger Tanks (Bakersfield, lowest price), Loomis, Diamond Valley Market, Wright Tank, National Tank Outlet; Norwesco 40213 is the Audi DTLA tank. Detail: appendix/09.
 
 ### Vendors to avoid or watch
 - AVOID Hansen Well-Do Service: quoted our customer directly. CAUTION Maker Welding: quoted the homeowner directly behind us. (registry)
@@ -102,6 +182,8 @@ Who installs our systems, how we treat installers, and who sends us work. Full d
 - Licensing direction: Water₂O is moving to Jason Sok's C-55. Never assume a payment deal lets us work under anyone else's license. (Oct 13 2026, resolved conflict Q26)
 
 ### How we work with installers
+- Julio's texts go out only after Zeke approves the draft; once approved, send right away. (Oct 26 2026, ledger A3055)
+- Channel per person: Maurice gets CRM texts (he rarely checks WhatsApp); Mitama Zaraki stays on WhatsApp. (Oct 27 2026, m:eafed6e0)
 Booking and scheduling:
 - Book an install only after scope, price and installer availability are confirmed BY TEXT with the installer. This applies to the AI receptionist too. (Oct 14 2026, m:b6c2f079)
 - After a site visit, Jason gets an automatic scope text at 24 h; if he has not replied, Jairo gets it at 36 h. (Oct 19 2026, memory/after-appointment-system.md)
@@ -115,9 +197,7 @@ Pricing and pay:
 
 Contracts and liability:
 - Before using a new installer, read the whole contract and report three things: the gist, the important parts, and any risk to Water₂O (workmanship, damage liability, license and insurance, payment terms, callbacks and warranty, exact scope). (Aug 31 2026, ChatGPT "Contract review concerns")
-- Jason's signed cooperation contract (Aug 31 2026): paid on satisfactory completion, amount "as agreed by text"; equipment he buys is paid before the work date; either side may terminate; California law. After signing, earlier texts do not count for material terms: put them in the contract or Exhibit A. (ChatGPT "Contract review concerns")
-- Jason's license and commission contract v4 (sent Oct 20 2026) is ON HOLD per Zeke. Do not push it. (memory/REGISTRY.md)
-- Future installer contracts should add: exact scope and exclusions, a fixed labor price, "complete" defined as operational, leak-free, tested and accepted, a workmanship and callback warranty, installer liability for damage and leaks, proof of license and insurance, approval before helpers or extras, permit responsibility, and cleanup and completion photos. (Oct 13 2026, ChatGPT project summary)
+- Jason's signed cooperation contract (Aug 31 2026), his v4 license and commission contract (ON HOLD per Zeke, do not push it) and the clauses every future installer contract must add: appendix/09-partners-vendors-installers.md. (memory/REGISTRY.md)
 
 Quality checks on every job:
 - Confirm scope and price before dispatch, verify parts before promising, protect counters and finishes, do startup and leak testing, photograph the finished install, clean up, report delays at once, never leave a problem open. (Oct 13 2026, ChatGPT project summary)
@@ -134,6 +214,7 @@ Quality checks on every job:
 - Draft every partner message for Zeke's OK before it goes out. Standing exception: on proximitybiz.com only, Tabitha may message anyone for leads or partnerships. (Oct 15 2026, memory/chezy.md)
 
 ### Referral fees
+- When we score a contractor a job or hook them up with a big project, ask for a commission. (Oct 27 2026, m:79e1e369)
 - The standard referral rebate is $350 (replaces the old $750, Oct 13 2026); Zeke may pick another amount case by case. Arrangements vary by partner: flat fee, revenue share, or swapped referrals. (Oct 13 2026, resolved conflict Q4)
 - Jason Sok: standard is $150 per job after he signs the license contract; 40% of the profit was a case-by-case deal on the Audi dealership job (Water₂O kept 60%), not the default. (WhatsApp voice, Oct 26 2026 1:07 PM PT, m:8f3636fd) (replaces "Jason gets 40% of the profit on deals he brings", Oct 20 2026)
 
@@ -148,57 +229,44 @@ Compare three delivery models with real numbers per job: (1) a partner who carri
 
 Every tool Water₂O runs on, what it is for, and the rules for using it. No passwords, keys or account numbers live in this manual: logins sit in Tab's vault. Full detail: appendix/12-systems.md, appendix/08-team-agents.md, appendix/07-photo-media.md.
 
+### Tab's full systems map (the Tab master file)
+- Everything Tab is connected to, every saved login (names only), every agent and how they talk, all schedules by department, every watchdog and box timer, the code map, active projects and the takeover steps live in one companion file: files/how-tab-works.md (Google Doc "TAB MASTER FILE" in the Water₂O Operating Manual Drive folder: https://docs.google.com/document/d/1aKsf81Aw_NjooFQbSjIj2fzNYYkV7hSHliKYlz6Sdng/edit, private). Its lists are generated from the live systems by files/tab-master/build.py, so they match what is actually running. Read it before taking over any of Tab's work. (Oct 28 2026, Zeke's voice note about 11:16 PM Oct 27)
+
 ### The big picture
-- Zeke owns vision, decisions, money and logins. Tabitha (Tab, the AI Chief of Staff) is the one front door: every agent, department and partner works behind her, and Zeke talks to ONE agent. (Oct 21 2026, files/departments/ORG.md; m:c71716da)
-- Goal: no notifications for Zeke. "I want it all to come in one place, one dashboard, one chief of staff." (Oct 18 2026, m:00599bff)
+- Zeke owns vision, decisions, money and logins; Tabitha is the one front door for every agent, department and partner (section 2). (Oct 21 2026, files/departments/ORG.md; m:c71716da)
 - Every ask Zeke makes is logged in the ask ledger (`files/departments/ask-ledger.json`, helper `python3 departments/ledger.py`) with an owner and a next date. Code captures every inbound message every 5 minutes, one model splits it into asks, a different model family audits it, and the dashboard shows any gap. Why: "99 requests and only 10 made it." (Oct 21 to 22 2026, memory/capture-guarantee.md, memory/ask-ledger-rule.md)
 
 ### The CRM (app.water2o.com)
-What it is: Zeke's own custom CRM, built in Lovable (project "WATER CRM"), sometimes called PipeFlo. It is NOT GoHighLevel. It is the single source of truth for leads, projects, contacts, appointments, estimates, invoices, payments, expenses, vendor quotes, installer assignments and content ideas. Check it before you act on any customer. (Oct 12 2026; Oct 21 2026, memory/single-data-flow-rule.md)
+What it is: Zeke's own custom CRM (Lovable project "WATER CRM", sometimes called PipeFlo; NOT GoHighLevel), the single source of truth for leads, projects, contacts, appointments, estimates, invoices, payments, expenses, vendor quotes, installer assignments and content ideas. Check it before you act on any customer; never ask Zeke what it already answers. Main screens and what each holds: appendix/12-systems.md. Messages has a react button: never claim the CRM can't react. (Oct 12 2026; Oct 21 2026, memory/single-data-flow-rule.md)
 
-Main screens:
-- Pipeline: the kanban board of projects by stage. The live CRM stage list is the truth; never ask Zeke what the CRM already answers. (Oct 12 2026, resolved conflict Q32)
-- Contacts: search by name, email, phone, address or tag. Groups hold related contacts (a family, a company); tags sit on groups and contacts.
-- Project (lead) page: Estimates, Timeline, Contacts, Media & files and Systems, plus notes.
-- Estimates, Invoices, Money, Reports. Accountant hub at app.water2o.com/accountant: pick a month, quarter or year and pull the sales tax, sales, expenses and receipts, job costing or "everything" bundle. (Oct 21 2026, memory/accountant-hub.md)
-- Messages: every text, call (with recording) and email in one conversation view. Texts go out from the business line [phone removed]. There is a react button for tapbacks; never claim the CRM can't react. Flag an urgent conversation red with a long-press. (Oct 7 to 20 2026, Bible 11)
-- Expenses: every card charge and receipt, status review or posted, linked to its project. Receipts are filed in the project's Media & files. (Oct 21 2026, memory/receipts-rule.md)
-- Studio: content to shoot (the must-shoot board). (Oct 21 2026, memory/content-shoot-autopilot.md)
-- Customer pages (estimates, payment and booking links) go out through view.water2o.com. (Bible 11)
-
-How a lead flows:
-- Lead arrives (website form, Thumbtack, Yelp, phone, referral). Thumbtack creates one project, group, contact, note and Messages thread per lead automatically; Yelp leads come in through a Gmail route. Website leads get Source "Website" and stage New Lead. (Oct 13 to 15 2026, memory/thumbtack-yelp-intake.md; Oct 13 2026, resolved conflict Q33)
-- Dedupe first, and check the record really saved. Ask Zeke before opening a new project for a contact who is not a customer (a referral partner gets a group, not a project). (Oct 12 2026, Bible 11)
-- Water test appointment (two-way synced with Google Calendar since Oct 21 2026: installer is a guest, the customer gets a separate event), then estimate, approval and payment, install appointment, then the care plan. (memory/calendar-event-rule.md; memory/site-visit-pipeline.md)
-- A lost lead gets a reason code plus the real detail (their budget, the competitor price). (Bible 11)
-- The "Speed to Lead" automation (text at 2 min, email at 1 h, call task at day 1) is PAUSED since Oct 7 2026; turn it back on only on Zeke's word. The estimate follow-up plan is text day 2, email day 5, call task day 7. (Oct 7 and Oct 16 2026, memory/chezy.md, memory/israeli-sop.md)
-- Estimate stage words: use what the live CRM shows. Unsent quotes are chased by the Quote Sergeant (section 7). Before promising an auto-charge, check whether the customer is on "Reminder" (manual) or an active "Care Plan" (auto-billed). (Bible 11; memory/quote-sergeant.md)
+How a lead flows (intake, dedupe, water test, estimate, payment, install, care plan; Speed to Lead is PAUSED since Oct 7 2026 until Zeke says): section 7 and appendix/12-systems.md. A lost lead gets a reason code plus the real detail (their budget, the competitor price). (Bible 11; Oct 7 2026, memory/chezy.md)
 
 CRM rules:
-- Additive only: add, never delete. Raw notes are never edited; the CRM keeps an organized bullet summary above them automatically. (Oct 19 2026, Zeke voice)
-- Notes are short and plain, dated the day written. After any call Tab places from its own line, log a summary note on the lead (those calls do not show in the CRM yet). (Bible 11; resolved conflict Q36)
-- Never invent fields or tags. There is no campaign field: use Source (multi-select) and put campaign details in Notes. Source and Temperature (cold, warm, hot) are separate. Use tags already in use (e.g. plumber, referral_partner). (Sep 6 2026; Oct 12 2026, Bible 11)
-- Name new contacts "First Last - Trade" (in Google Contacts: "First Last - What they do", plus a notes field full of keywords) and never make a second contact for the same person: add the new number to the existing one. CRM notifications must never show a bare number. (Oct 20 2026, m:8a7b3419, m:0382f106; Oct 23 2026, m:095a4459)
-- Never say a text was sent until it shows "delivered" in Zeke's own thread. Why: once a "sent" text was invisible to him ("can I not rely on you"). (Oct 7 2026, Bible 11)
-- Change the CRM through its screens. Code changes go through GitHub (repo zekewater2o/water2o-crm), are tested, and are published in Lovable; spend Lovable credits only when truly needed. Never touch the website project when working on the CRM, and the reverse. (Oct 14 2026; files/it-agent/IT-AGENT.md; Bible 11)
-- Speed: Zeke wants "supersonic speed", the fastest CRM there is. The CRM DB watchdog tests it every 15 minutes (7 AM to 10 PM); slow screens get fixed without upgrading the paid plan. (Oct 20 2026; schedule 89fc1282)
-- Owner: Zeke's workspace owns all data; Tab and other agents have their own logins and write as themselves.
-- Message history never disappears: every text, call and email for a contact stays on one screen and scrolls back to the first message; only if that slows the CRM, a "show older messages" button at the top. No watchdog workaround. (Oct 26 2026, m:846b3e0e, m:ecda2817, m:f7f8c0ff)
-- Unknown numbers: every bare-number texter or caller is saved as first name "Full Name - Company or what they do" (plain hyphen), last name empty, matching tags, group = the company. A daily code pass names what it can; an AI worker does the rest; spam is blocked. (Oct 26 2026, m:48ae4442; memory/crm-unknown-contacts-rule.md)
-- Books like "QuickBooks on steroids": every business charge carries its invoice or receipt file, so any accountant or CPA finds everything in one click (P&L, expenses by job, sales tax, 1099s, missing receipts, money owed to Chev). (Oct 26 2026, m:7e0d6ef1; memory/books-quickbooks-on-steroids.md)
+- Additive only: add, never delete. Raw notes are never edited; the CRM keeps a bullet summary above them. Notes are short, plain and dated; after any call from Tab's own line, log a summary note on the lead. (Oct 19 2026, Zeke voice; Bible 11)
+- Never invent fields or tags. No campaign field: use Source (multi-select) and put campaign details in Notes; Source and Temperature are separate; use tags already in use. (Sep 6 2026; Oct 12 2026, Bible 11)
+- Contacts: "First Last - Trade" (Google Contacts: "First Last - What they do" plus keyword notes); never a second contact for the same person (add the number to the existing one); no notification ever shows a bare number. Unknown numbers are named "Full Name - Company or what they do" by code (a daily pass, plus a 5-minute pass the moment a landline bounce, reply or call transcript says who it is); he never fixes contacts by hand. (Oct 20 to 30 2026, m:8a7b3419, m:095a4459, m:48ae4442, m:c7cab18f)
+- Never say a text was sent until it shows "delivered" in Zeke's own thread ("can I not rely on you"). (Oct 7 2026, Bible 11)
+- Code changes go through GitHub, tested, then published (section 13); never touch the website project when working on the CRM, or the reverse. (Oct 14 2026; files/it-agent/IT-AGENT.md)
+- "Supersonic speed": the DB watchdog tests it every 15 minutes; slow screens get fixed without upgrading the paid plan. (Oct 20 2026)
+- Zeke's workspace owns all data; agents have their own logins and write as themselves.
+- Message history never disappears: every text, call and email for a contact on one screen back to the first message (a "show older" button only if it slows). (Oct 26 2026, m:846b3e0e)
+- Books like "QuickBooks on steroids": every business charge carries its invoice or receipt file, so any accountant finds everything in one click (P&L, expenses by job, sales tax, 1099s, missing receipts, money owed to Chev). (Oct 26 2026, m:7e0d6ef1)
+- No automatic drafts: the CRM's auto-drafters stay off unless he asks. Anything crossed off the list is marked read. (Oct 27 2026, m:e39db371, m:fe60b5ea)
+- Link opens are labeled (proposal, job scope, water report) and say WHO opened; installer opens and price submissions email Zeke at once. (Oct 27 2026, m:a27a5908, m:7d336c7f)
+- Anything an agent can do should also be a one-click CRM button "as if a five-year-old" could run it (first: the partner deck button). (Oct 27 2026, m:36ad148b)
+- Every customer payment reaches Zeke from Tab within a minute or two; he is never the first to know. (Oct 27 2026, m:d54fc109)
 
 ### The dashboard (zeke-dashboard.sites.tab.bot)
-ZekeOS is Zeke's private, phone-first command screen, built to be ADHD-proof. (Oct 23 2026, m:8abb4728)
-- Top: only the 1 to 3 things that need him ("Do first"), each with big buttons (Approve, Done, Answer, Later). A tap opens WhatsApp to Tab with the words filled in. "Later" brings an item back by itself.
-- Then Money today, Leads and jobs, Calendar; everything else in folding cards with search: Asks, Capture box (turns red if capture stops), Content to shoot, projects board, Master library (from the Water₂O MASTER SHEET), Tools (every vendor tool with an owner), Links. (Oct 18 to 22 2026, memory/zekeos-dashboard.md)
-- Daily brief box (#brief): agents post briefs in Slack by 6:45 AM; Tab merges them at 7:20 AM and the only morning notification Zeke gets is one WhatsApp line with the brief link. (Oct 20 2026, schedule 6b8715f4)
-- Needs-you list: items only Zeke can unblock (a decision, money, a login), each with the exact reply word. Done items clear themselves. (dashboard/needs-you.json; memory/zekeos-dashboard.md)
-- Send button: drafts waiting for approval sit on cards; Zeke's tap on Send IS the approval of those exact words, then the CRM sends (email from zeke@water2o.com, texts from the 310 line). Nothing auto-sends. Texts only 9 AM to 8 PM PT and never on Shabbat. (Oct 20 2026, memory/dashboard-send.md)
-- Refreshes every hour, 7:05 AM to 10:05 PM PT, not on Shabbat. It hides full phone numbers and card-like digits. (Oct 18 to 19 2026, memory/dashboard.md)
-- Link hub (/links): every page, PDF or doc we publish gets an entry the same day: `python3 files/link-hub/add.py "Title" URL "Category" "keywords"`. (Oct 22 2026, memory/link-hub-rule.md)
-- Search finds things by related words, never only exact wording: every item of every type carries keywords (password = [removed] = credentials, and so on) and a search with some matching words shows the closest matches instead of nothing. (Oct 26 2026, m:2d9066af; memory/dashboard-search-rule.md)
+ZekeOS is Zeke's private, phone-first, ADHD-proof command screen. (Oct 23 2026, m:8abb4728) Detail: memory/zekeos-dashboard.md.
+- Top: only the 1 to 3 things that need him ("Do first") with big buttons (Approve, Done, Answer, Later); a tap opens WhatsApp to Tab with the words filled in; "Later" brings an item back by itself. Then Money today, Leads and jobs, Calendar, and folding cards with search (Asks, Capture box, Content to shoot, projects board, Master library, Tools, Links). (Oct 18 to 22 2026)
+- Daily brief box (#brief): agents post by 6:45 AM; Tab merges at 7:20 AM; his only morning notification is one WhatsApp line with the link. (Oct 20 2026, schedule 6b8715f4)
+- Needs-you list: items only Zeke can unblock, each with the exact reply word; done items clear themselves. (dashboard/needs-you.json)
+- Send button: his tap on Send IS the approval of those exact words, then the CRM sends (email from zeke@, texts from the 310 line, 9 AM to 8 PM PT, never on Shabbat). Nothing auto-sends. (Oct 20 2026, memory/dashboard-send.md)
+- Refreshes hourly 7:05 AM to 10:05 PM PT, not on Shabbat; hides full phone numbers and card-like digits. (Oct 18 to 19 2026, memory/dashboard.md)
+- Link hub (/links): every page, PDF or doc we publish gets an entry the same day (`python3 files/link-hub/add.py`). Search finds by related words, never only exact wording (password = [removed] = credentials). (Oct 22 2026, memory/link-hub-rule.md; Oct 26 2026, m:2d9066af)
 
 ### Slack (water2o.slack.com): the agents' back office
+- The Agent Hub (app.water2o.com/ask) is a custom web page, not Slack: prompt, voice note, video and answers in one place, by topic, with task boxes named after his real prompts. Tab answers inside the box, never by WhatsApp. (Oct 27 2026, m:886efa49; files/ai-hub/README.md)
 - #agents: the main room. Zeke gives agents orders; standing missions live in threads.
 - #brief-inbox (private): every agent posts its daily brief by 6:45 AM.
 - #daily-brief: Tabitha posts the merged brief.
@@ -209,7 +277,7 @@ ZekeOS is Zeke's private, phone-first command screen, built to be ADHD-proof. (O
 The AI team (one line each):
 - Tabitha (Tab): Chief of Staff and manager of all agents; runs the ledger, sweeps, brief, dashboard, handoff and the CRM watch. (ORG.md)
 - Cooper (on Muse): Tabitha's executive assistant; text only, no calls; other agents reach Tab through him. (Oct 16 2026)
-- Ingrid (Instinct): research, deep dives and documents; fastest direct line to Zeke; cannot place calls. (appendix/08)
+- Ingrid (Instinct): first choice for anything she can reliably do (research, drafting, docs, sheets, reminders, follow-ups, travel, website errands); fastest direct line to Zeke; cannot place calls. Tab keeps calls, box code and watchdogs, and saved-login browser errands. A handoff is one complete email (request, context, files, deadlines, limits); Tab keeps the job until Instinct replies ACCEPT, no silent drops. Her access: section 13. (Oct 29 2026, m:c37fd9cf, m:2d324fb2; memory/instinct-split.md)
 - Mike (Grok): posts only when a Grok session runs; "was reliable, now offline." (Oct 18 2026, m:4d4eccd2)
 - Pickle: the CRM's own Slack app, event driven and the fastest (about 8 s); sends a scheduled report. (Oct 18 to 21 2026)
 - Claude: Slack specialist app; answers humans with a linked account. (ORG.md)
@@ -218,28 +286,29 @@ The AI team (one line each):
 
 ### Mail
 - zeke@water2o.com: the main business mailbox (customers, vendors, calendar, Drive). Partner and lead outreach drafts are saved here for Zeke's OK.
-- Zeke's personal Gmail: banks, cards, Thumbtack, USPS digest. The shared family Gmail is READ ONLY, never cleaned or sent from. Tab reads all three and also has her own mailbox for agent mail. (Oct 21 2026, memory/inbox-agent.md)
+- Zeke's personal Gmail: banks, cards, Thumbtack, USPS digest. The shared family Gmail is READ ONLY. How Tab reaches each mailbox: section 13. (Oct 21 2026, memory/inbox-agent.md)
 - Inbox agent (daily 6:45 AM, Sun to Fri): keeps the inbox clean for someone with ADHD: leaves people, money, tax, legal and security mail; labels receipts; moves notifications and newsletters to Filtered/* labels and unsubscribes from marketing; trashes only confirmed spam. Never unsubscribe 1440 (join1440.com). (Oct 21 2026, m:c47afffb, m:5792313f)
 - Filtered mail review (daily 4 PM): an agent reads everything under Filtered/* so nothing slips; real money or account risk goes back to the inbox. (Oct 16 2026, memory/filtered-mail-review.md)
 - Gmail filters are made in the Gmail web screen (the API refuses). (Oct 21 2026, memory/inbox-agent.md)
 
 ### Google Drive
 - Business docs live in the zeke@water2o.com Drive: the Operating Manual (Google Doc + PDF), the Shared Context doc, the Water₂O MASTER SHEET, client folders for field photos. (memory/zeke-manual-rule.md; Oct 15 2026, m:dfb053e0)
-- Never send Drive links or folders to customers or prospects: attach photos or link the website. (Oct 14 2026, memory/chezy-crm-templates.md)
 
 ### Phone and texting
 - Business texts and calls: the CRM line [phone removed]. Customers and business contacts never get texts from Zeke's personal number. (m:22f1bd94)
 - Tab places real calls (suppliers, businesses, reminder calls to Zeke). If someone asks "is this a bot?": "yes, I'm Zeke's personal AI assistant... Zeke's always a text away." (Oct 12 2026)
-- Codes: never ask Zeke for a code you can fetch yourself. (Oct 15 2026, memory/lessons-learned.md)
+- Missed-call responder (code, every 3 min): checks spam, the CRM, his email and contacts, then texts through crm_text.mjs only, 9 AM to 7 PM, never Shabbat or yom tov, once per number per 72 hours, never to spam, family, personal contacts, sales reps, toll-free numbers, landlines or the never-contact list. VIPs, past customers and open estimates wake Tab so Zeke can call; the rest goes in the brief. Before "text the missed call", check files/missed-call-responder/log.jsonl. (Oct 30 2026, m:86c78069, m:a4c86ec1)
+- Not built yet: a confirming call to an unknown caller we truly cannot place (spam, marketing vendor or vendor), only when 100% necessary and in a natural American accent; Zeke approves the tool first. (Oct 30 2026, m:a4c86ec1)
+- Meetings: the free tl;dv bot records the Google Meets Zeke joins on zeke@ and emails the notes only to him; say "I record my calls for notes" at the start. (Oct 29 2026, memory/zeke-record-everything.md)
 
 ### Social accounts and website
-- Instagram @homewater2o is connected; approved trial reels post through Instagram's own API with private, expiring video links, never a public file host. (Oct 18 2026)
+- Approved reels post through Instagram's own API with private, expiring video links, never a public file host. (Oct 18 2026)
 - Every public post, profile edit or review reply is a draft until Zeke OKs the exact words. (public-presence charter, files/public-presence/PUBLIC-PRESENCE-AGENT.md)
 - water2o.com runs on Lovable (its own project, separate from the CRM). Work on a branch or preview; nothing is published to water2o.com without Zeke's OK. (schedules 8e3e520c, c97bb60e)
 - Reels learn by code: before any reel edit, read files/content/reel-lab/RULES.md (every edit is Claude's, see section 4 "Video editing: only Claude"). Plain code pulls Instagram insights every day and rewrites those rules, keeping what works and dropping what does not. (Oct 26 2026, m:37bbb060; memory/reel-lab-rule.md)
-- Trial reels: one every 24 hours at 11 AM; after all 7, the best one goes to the main feed on Zeke's "feed it". (Oct 26 2026, m:66332185)
+- Trial reels are STOPPED. Never repost footage already shared as a trial (Instagram limits its reach), and nothing posts without clean audio and a real edit Zeke or Chev has seen first. Seven trials in a row was the wrong experiment; test smaller and better. Do not restart without his word. (replaces the daily trial loop of Oct 26 and Oct 30, Oct 31 2026, Zeke forwarding Chev, m:131b842d, m:06d9cff4, m:db0a9152)
 - Viral Coach: never sign up for the paid program; use its method for $0 (3 reels a week, face or voice in the first 2 seconds, "Comment SALT", scorecard on DMs and booked tests). (Oct 26 2026, m:e3806520; files/marketing/viral-coach/)
-- LinkedIn: the login is in Tab's vault; the Week 2 post is live on the Water₂O company page (Oct 26 2026). Banner proof line: "1,000+ Systems Installed". (Oct 26 2026, m:1ef7dd9a; memory/linkedin-ownership.md)
+- LinkedIn: weekly company posts after his OK; every company post is reposted from his profile. Banner proof line: "1,000+ Systems Installed". Weekly drafting moved to Ingrid Nov 1 2026; Tab keeps publishing. (Oct 26 2026, m:1ef7dd9a; memory/linkedin-ownership.md; memory/instinct-split.md)
 
 ### Photos and media (brief)
 - Every photo or video Zeke sends is an instruction, even with no caption. Open it full size and act; never ask for what is in it. (Oct 16 and Oct 22 2026, m:8ffbff2b)
@@ -249,13 +318,110 @@ The AI team (one line each):
 - Zeke also uploads job media to his own Drive (zeke@, folders named after the client). A Drive watcher checks it every 10 minutes, matches each file to the CRM lead and tells Tabitha when it answers an open ask; nobody asks him for a file that is already there. (Oct 27 2026, m:e66400a5; files/drive-watch/README.md)
 
 ### The IT agent
+- Google logins: every script on the zeke@ or chezy4 browser context goes through it-agent/google-session.mjs (one job per context, pinned exit, no leftover sessions), so his sign-ins stop expiring. (Oct 27 2026, m:85336f30; memory/google-session-rule.md)
 - Charter: files/it-agent/IT-AGENT.md. Why: "Make an agent specifically around IT, so these things never happen again." (Oct 20 2026)
 - Checks the CRM database every 15 minutes and every system end to end at 6:30 AM daily; one worker fixes what breaks; results go to files/it-agent/log.md.
 - $0: never buys, upgrades or changes a paid plan without Zeke's yes. Zeke hears only about outages staff feel, a needed paid change, or a login only he can do. (files/it-agent/IT-AGENT.md)
 
-## 13. Where everything lives
+## 13. Access and integrations: what Tab can reach, how, and why
 
-The map of every system, page and file. The full list of every page and link built for the business is generated from the link hub and lives in appendix/15-where-everything-lives.md (last generated Oct 27 2026).
+Every access Zeke has given Tab, half-given, discussed or wanted, so any human or agent sees what is connected, how and why. Zeke's order (Nov 2 2026, m:89a852d4): "Any access ever given to you or discussed to give to you should be listed... how you get access to that and the goal of why." Per-item detail: appendix/17-access-integrations.md; saved sign-ins (names only): `node wallet-cli.mjs item-list`; live systems map: the TAB MASTER FILE (section 12).
+
+### How to read this section
+- **No secret values appear here** or in any file, chat, dashboard or Slack post. A sign-in is used by a script that fills it from Tab's vault; nobody, the AI included, reads it. (Oct 26 2026, m:f15ea062; memory/logins-rule.md)
+- **Status:** Done, Partly (works with a gap), Waiting on Zeke (one step only he can do), Blocked, Discussed (nothing built), Ended.
+- **Methods:** *connected app* (he approved a grant on the provider's screen; Tab uses its API); *vault sign-in* (he typed it into an add-login link and it went straight to the vault); *saved browser profile* (a private browser that stays signed in as him); *API key*; *device link*; *remote control* (Tab drives a real screen); *code on Tab's box*.
+- **His access rules:** ask for the widest useful access (Oct 6 2026, m:5005f274); keep every access permanent, avoid anything that logs Tab out (Oct 11 2026, m:8fe35b51); for a restricted key, name every switch so it is done once (Oct 6 2026, m:80fcf95e); every AI agent gets the same access as Tab (Oct 14 2026, m:a8b70437; Oct 16 2026, m:3497c8b6; Partly); check the vault, profiles, apps, both Gmails and the MASTER SHEET before asking him for a sign-in (Oct 21 2026, m:5264a4c3). Sending, paying and posting still need his OK (section 4).
+
+### Google accounts and mail
+| Access | Status | How Tab gets in | Why (Zeke's goal, date) |
+|---|---|---|---|
+| zeke@water2o.com: Gmail, Calendar, Drive, Docs, Sheets, Contacts, Tasks | Done since Oct 5 2026 | Connected app; vault sign-in and saved profile for web-only screens (Business Profile, Gemini, Cursor, Chrome Remote Desktop) | Business mail, calendar and files; his approved emails go out as him; job media in Drive (Nov 2 2026, m:b04d05c3) |
+| chezy4@gmail.com (personal Gmail) | Done since Oct 3 2026 (mail only by app) | Connected app for Gmail; vault sign-in and saved profile for Photos, Drive, Contacts and saved sign-ins | Banks, cards, Thumbtack mail; his phone photos and contacts live here (memory/phone-access.md) |
+| chezandchev@gmail.com (family Gmail, shared with Chev) | Done since Oct 15 2026, READ ONLY | Connected app | Catch household and shared mail; never cleaned, labeled or sent from (Oct 21 2026, memory/inbox-agent.md) |
+| Google recovery codes for both Google accounts | Done Oct 20 2026 | Vault note; one used only when Google insists, logged | So Google stops needing his phone for every sign-in (Oct 20 2026, m:2dbe8f13) |
+| Google's saved sign-ins on chezy4 | Done Oct 26 2026 | 54 sign-ins imported from the MASTER SHEET | One place for his sign-ins (Oct 26 2026, m:f15ea062) |
+| Water₂O MASTER SHEET (Logins tab and library) | Done | Read live through the zeke@ grant | His master list of tools and logins; check it before asking him (Oct 21 2026, m:5264a4c3) |
+| Google Photos (camera scan of his Galaxy) | Done since Oct 22 2026 | Saved chezy4 profile, read only, every 4 hours | "Scan every single photo that comes in": leads, receipts, install media (Oct 14 2026, m:a6505e8d) |
+| Drive watcher on zeke@ | Done since Oct 27 2026 | Code every 10 minutes through the zeke@ grant | Media he uploads himself is never missed again (Oct 27 2026, m:e66400a5) |
+| Tab's own mailbox zeke.vogel@mail.tab.bot | Done | Tab's own address; agents and services write to it | Agent mail and briefs; never for customers (section 4) |
+| tl;dv meeting recorder | Done Oct 29 2026 | Free bot on his zeke@ Meets | Record every meeting as intelligence (Oct 29 2026, memory/zeke-record-everything.md) |
+
+### Messaging, phone and remote devices
+| Access | Status | How Tab gets in | Why (Zeke's goal, date) |
+|---|---|---|---|
+| WhatsApp chat with Tab (Tab's own WhatsApp number) | Done | Tab's own number | His main line to Tab; it cannot message third parties |
+| Tab as a read-only linked device on his WhatsApp | Waiting on Zeke: LOGGED OUT since Oct 30 2026 1:43 AM PT | Device link: WhatsApp Web in a private browser profile, read by code every 10 minutes; never sends, reacts or opens a chat. Linked Oct 27 2026 5:54 PM PT (m:bdd6bee1). Relink: he replies "link whatsapp" and scans the code in Linked devices, never on Shabbat | Three WhatsApp agents: Mirage pool leads, the deal hunter, the AI Tips scout (Oct 27 2026, m:82070476); paused until relinked |
+| His WhatsApp Web on the office Mac | Done (slow, about 1 minute per chat) | Remote control through Chrome Remote Desktop | Read and draft freely; sending in his WhatsApp needs his OK on the words (Oct 26 2026, m:5ddc17cd; Oct 27 2026, m:a9b6ad1e) |
+| Office Mac mini (Riverside office) | Done Oct 18 to 19 2026 | Remote control (Chrome Remote Desktop, PIN and Mac sign-in in the vault); auto-login on; Find My on zeke@; daily online check | Full control "no holds barred" for every agent, desktop-only apps, theft check (Oct 16 2026, m:8d57ebe8; Oct 19 2026, m:c9577643) |
+| AnyDesk remote control of his Galaxy S25+ | Waiting on Zeke | Remote control (AnyDesk plus the Samsung control add-on). Address sent Nov 1 11:19 AM (m:c1fc1185); the phone showed offline. Next: he opens AnyDesk, replies "ready" and taps Accept | Phone storage 98% full: clean it now and monthly, control it for him (Oct 31 2026, m:a11c1f2b, m:269060d0) |
+| His personal 410 number texts | Done for sending (proven Oct 19 2026); reading codes Partly | Google Messages for Web paired with his phone, in a saved browser profile | "USE MY NUMBER" (Oct 18 2026, m:fa30f945); read bank codes so he never forwards them (Oct 22 2026) |
+| Business line [phone removed] texts and calls | Done | The CRM's texting, through the SMS guard | All customer texting (section 12) |
+| Tab's own calling line | Done | Tab's own phone; calls to Zeke paused since Oct 27 (section 2) | Suppliers, offices, money hounding (Oct 21 2026, m:bacfc9bc) |
+| Phone texts and contacts audit | Partly | SMS Backup & Restore to zeke@ Drive (first file too big to read whole); contacts read in the chezy4 profile; MacroDroid forwarding never delivered (Google's Allow step not done) | Audit contacts and texts, read and answer texts (Oct 15 to 17 2026, m:bdf638a8, m:0fb011c4) |
+
+### Business systems
+| Access | Status | How Tab gets in | Why (Zeke's goal, date) |
+|---|---|---|---|
+| CRM app.water2o.com (agent login) | Done since Oct 3 2026 | Vault sign-in, Tab's own agent user; scripts use its session, additive only | Single source of truth (section 12) |
+| CRM owner login (Zeke's) | Done Oct 19 2026, for admin steps only | Vault sign-in | Create agent logins only (Oct 19 2026) |
+| GitHub zekewater2o: repos water2o-crm, the site repo (hug-of-code-10), water2o-council | Done since Oct 19 2026 | Connected app | Code fixes on branches, tested, then published |
+| Lovable (two accounts) | Done Oct 7 2026 | Vault sign-ins | Publish tested builds; credits only when needed |
+| Stripe | Done Oct 5 to 6 2026 | Vault: dashboard sign-in plus read-only, subscriptions and restricted API keys | Payment alerts and bookkeeping; read only unless he OKs (Oct 14 2026, m:af413be8) |
+| Slack water2o.slack.com | Done since Oct 12 2026 | Connected app as "Tabitha" plus a read-only grant on Zeke's user (never post as him); agent app credentials in the vault | The agents' back office (section 12) |
+| ZekeOS dashboard zeke-dashboard.sites.tab.bot | Done | Tab publishes it; sign-in in the vault | His private screen (section 12) |
+| Agent Hub (app.water2o.com/ask) and the AI council hub (zeke-council-hub-0e51976e.sites.tab.bot) | Done | Agent Hub: a CRM page whose boxes wake Tab, who answers in the box. Council hub: published by Tab, each AI joins with its own link. Both listed internal-only in the CRM Landing pages | Give every agent a job in one place; his AIs review the business (Oct 27 2026, m:886efa49) |
+| Notion | Partly (Oct 16 2026) | Connected app; only template pages are visible | Considered as the organized home for tasks and sign-ins (Oct 16 2026, m:8d7ebc66, m:f451b362) |
+| Trello | Partly (Oct 16 2026) | Connected app; card text readable, sign-in values come back hidden and no Trello web sign-in exists | His old boards and saved logins (Oct 16 2026, m:10c70141) |
+| Thumbtack | Done | Vault sign-in; Partner API credentials (Oct 22) | Leads land whole in the CRM (Oct 15 2026, m:4b49912a) |
+| QuickBooks | Done (sign-in saved Oct 3 2026) | Vault sign-in | Books (Oct 26 2026, m:7e0d6ef1) |
+| GoHighLevel | Ended Nov 1 2026 | Cancelled (ends Nov 30), refund asked | Set up by the fired agency, never used (Nov 1 2026, m:1d5a3303) |
+
+### Marketing, listings and cold email
+| Access | Status | How Tab gets in | Why (Zeke's goal, date) |
+|---|---|---|---|
+| Instagram @homewater2o | Done | Connected app (Instagram API, Oct 16) plus vault sign-in (Oct 9) | Approved reels, insights, DMs (section 12) |
+| Google Business Profile | Done | Saved zeke@ browser profile | Posts, reviews, checks (section 4) |
+| LinkedIn (his profile and the company page) | Done Oct 26 2026 | Vault sign-in "LinkedIn, Zeke Vogel" and a saved browser profile | "Get full access to my LinkedIn" (Oct 15 2026, m:2d18c578) |
+| Facebook (manages the page "Water₂O - Home Filtration") | Blocked | Vault sign-in works; Facebook's two-step check stops it. He fixes it in Accounts Center, then replies "facebook fixed" | Page posts 3 a week |
+| Directory listings: Nextdoor, Yellow Pages, Cylex, MerchantCircle, Hotfrog, Manta, Foursquare | Done Oct 20 2026 | Vault sign-ins on zeke@water2o.com | One correct name, address and phone everywhere (Oct 20 2026, m:c5f4039d) |
+| Yelp | Blocked | The listing is claimed by an unknown owner; a reset needs his recovery step | Fix hours and reply to reviews |
+| Buildnotes | Waiting on Zeke | No sign-in on file | Builder leads and intros |
+| Cold email domain getwater2o.com: Instantly, the domain registrar and 3 sending mailboxes | In progress (warming since Oct 28 2026) | Vault sign-ins; campaigns only after warm-up and his OK | Volume outreach without risking zeke@ (Oct 27 2026, m:997f445f) |
+| UCFS dealer portal (customer financing) | Done Oct 21 2026 | Vault sign-in | Customer financing apps (Oct 21 2026) |
+| WaterGroup dealer training portal | Done Oct 30 2026 | Vault sign-in | Dealer training and product info |
+| Media company side project accounts (Professor Pip, Detective Drip) | Done Oct 19 2026 | Vault sign-ins, own Tab mail | Side project, never mixed with Water₂O |
+
+### Money and household accounts (read first; every action needs his OK)
+| Access | Status | How Tab gets in | Why (Zeke's goal, date) |
+|---|---|---|---|
+| Amex, Chase, Wells Fargo, Bilt cards | Done Oct 2 to 3 2026 | Vault sign-ins; codes read from inboxes or 410 messages | "Manage all my credit cards... never let it sleep" (Oct 9 2026); charges into the books (Oct 14 2026, m:af413be8) |
+| Bank of America, Happen Bank, PayPal, Venmo | Done Oct 3 to 6 2026 | Vault sign-ins | Balances; pay only on his exact OK |
+| Spectrum, Verizon, Amazon, Bristol West (auto policy), health plan portal | Done Oct 2 to 9 2026 | Vault sign-ins | Bills, orders, renewals, reminders |
+| Saved cards for purchases | Done | Tab's wallet (default: main business Amex) | Approved purchases only |
+
+### AI agents and AI tools
+| Access | Status | How Tab gets in | Why (Zeke's goal, date) |
+|---|---|---|---|
+| Ingrid (Instinct) | Done; access sharing Partly | Email and Slack | First choice for work she can carry; approved for a CRM login, his personal Gmail, Instagram, Google Business (Oct 29 2026, m:c37fd9cf) |
+| Cooper (Muse), Pickle (the CRM's Slack app), Claude (Slack app) | Done | Slack | The team (section 12); Claude needs him to link his Claude account in Slack once |
+| Mike (Grok Bot) and Cursor | Partly | His Cursor account on zeke@; Grok Bot desktop app on the office Mac, by remote control | Keep Mike reachable; pauses at the weekly limit (Oct 19 2026, m:4d4eccd2) |
+| ChatGPT (Business workspace) | Done | Vault sign-in and saved profile; ChatGPT Slack app since Oct 19 | Council reviews, scheduled tasks |
+| Gemini | Partly | Gemini web in the zeke@ profile ($0); the API key is free tier | A permanent seat needs his paid key (about $5), his call (Oct 18 2026) |
+| Retell (his own voice AI account) | Done Oct 14 2026 | Vault sign-in and its code generator | The AI receptionist plan (section 12) |
+
+### Discussed, half-done or not started
+- Etsy shop (side project): kit delivered and sign-in links sent Oct 18 to 21; ID, selfie and bank steps are his; not opened. (Oct 18 2026, m:b681db6b)
+- merch.com mailbox on Ikey's workspace: add-login link sent Oct 25, never saved. (T838)
+- Google Drive and Contacts app grant for chezy4: offered Oct 18, expired unopened; the saved browser profile covers it today. (memory/phone-access.md)
+- Gemini paid key and the Claude Slack account link: each one step only he can take. Mike's status comes from Ingrid's daily review (hers since Nov 1); never ask Zeke about a Mike or Grok Slack app. (memory/agent-reachability.md; memory/instinct-split.md)
+- Office Mac network heartbeat (alert if the Mac changes network): only after he approves installing it. (Oct 19 2026)
+- Equal access for every agent: done for Slack and shared docs; per-agent CRM logins and Ingrid's Gmail and Instagram access are approved but not finished. (Oct 14 2026, m:a8b70437; Oct 29 2026)
+- Private personal-group logins exist in the vault and are left out of this manual by the privacy rule.
+
+## 14. Where everything lives
+
+The map of every system, page and file. The full list of every page and link built for the business is generated from the link hub and lives in appendix/15-where-everything-lives.md (last generated Nov 02 2026).
 
 ### The core places
 - CRM (customers, leads, estimates, appointments, texts, calls, invoices): https://app.water2o.com
@@ -270,22 +436,24 @@ The map of every system, page and file. The full list of every page and link bui
 - Job folders, photos and scopes: files/ (e.g. files/julian-kim-audi-dtla/), and each customer's Media & files tab in the CRM
 
 ### Every page by category (count, then the most used)
-- Agents & Operations (19): Zeke's Operating Manual https://docs.google.com/document/d/1i77qBZt-KOZL55l-D42VCcRU9WavU8wVyeMQ6IOAqG8/edit; Operating manual (PDF) https://drive.google.com/file/d/1epYSWqFywOBNFj1Zl19YE00B1wjr2h4O/view; Recording stack (PDF) [link on zeke-dashboard.sites.tab.bot removed] Shared Context doc (all agents) https://docs.google.com/document/d/1jeiAqhm3K_LD0HuBz3Dw7fF4hi45nGSPY9YUVj1R1N0/edit
-- Website & Marketing (13): Builders page: how we work with builders (Nick, Vineland Hom https://water2o-builders.sites.tab.bot/; Video carousel (preview) https://water2o-carousel-preview.sites.tab.bot/; Products page redesign (preview) https://water2o-products-preview.sites.tab.bot/; SEO / NAP website fixes (preview) https://water2o-seo-preview.sites.tab.bot/
-- Sales (13): Leads hiding in your contacts, notes, email and photos (rank [link on zeke-dashboard.sites.tab.bot removed] Rebuttals library [link on zeke-dashboard.sites.tab.bot removed] Photo leads: van drafts Oct 21 (PDF) [link on zeke-dashboard.sites.tab.bot removed] B2B campaign plan v4 (PDF) [link on zeke-dashboard.sites.tab.bot removed]
-- Proposals & Jobs (9): Audi Downtown LA car wash job brief https://audi-dtla-wash.sites.tab.bot/; Audi DTLA car wash job brief (PDF) [link on zeke-dashboard.sites.tab.bot removed] Hot Wax estimate for Audi DTLA (competitor, PDF) [link on zeke-dashboard.sites.tab.bot removed] Audi Downtown LA proposal (sent to Julian Oct 21) [link on view.water2o.com removed]
-- Plans & Strategy (9): Budget autopilot (PDF) [link on zeke-dashboard.sites.tab.bot removed] Final stack vote (PDF) [link on zeke-dashboard.sites.tab.bot removed] Commercial plan v3 (PDF) [link on zeke-dashboard.sites.tab.bot removed] $100M roundtable, final (PDF) [link on zeke-dashboard.sites.tab.bot removed]
-- Product pages (7): Reverse osmosis (RO) page https://water2o-ro.sites.tab.bot/; Tankless RO info page on view.water2o.com (preview) https://water2o-info-preview.sites.tab.bot/; RO NSF 58 certificate (PDF) [link on zeke-dashboard.sites.tab.bot removed] RO NSF 61 certificate (PDF) [link on zeke-dashboard.sites.tab.bot removed]
-- Dashboards (5): Tab Link Log: all links and web pages built by Tab https://docs.google.com/document/d/1PrejJ6b3IdcM0Iua-L1YnPnjh8rYjmjqz8iSaXcJdHE/edit; ZekeOS dashboard (home) [link on zeke-dashboard.sites.tab.bot removed] Links hub (this page) [link on zeke-dashboard.sites.tab.bot removed] Daily brief [link on zeke-dashboard.sites.tab.bot removed]
-- CRM & Tools (4): Jug Spotter https://water2o-spotter.sites.tab.bot/; Lovable prompt: CRM reports (Google Doc) https://docs.google.com/document/d/1dq5aMCD2ygFgQT4758yuh8WzwuakTVTVd7l37zZShU4/edit; Lovable prompt: CRM tax & billing fixes (Google Doc) https://docs.google.com/document/d/1nMKt1mACLkskFwkmiKGsqGS_hxx8KrUJoDL44_BL1Ag/edit; Water₂O CRM https://app.water2o.com/
-- Partners (4): Jason Sok platform plan (PDF) [link on zeke-dashboard.sites.tab.bot removed] Cindy K. Texas opportunity memo (PDF) [link on zeke-dashboard.sites.tab.bot removed] Jason Sok installation agreement v4 (Drive PDF) https://drive.google.com/file/d/1h5WcmPCz2wPnkFpcYKCOWNCJeGqaXLod/view; Jason Sok agreement legal notes (Google Doc) https://docs.google.com/document/d/1-zGESzhEdxnFJgN7Lup9KJE8OXdjEJWgX442GP3sNrI/edit
-- Procurement (3): Product sourcing Oct 14 (PDF) [link on zeke-dashboard.sites.tab.bot removed] Vendor log (PDF) [link on zeke-dashboard.sites.tab.bot removed] Vendor & hire log (Google Sheet) https://docs.google.com/spreadsheets/d/1SxLcY6esy51o6E9YaVdL7iuaOz8hcmy03ApHGAmaDNU/edit
+- Agents & Operations (19): Zeke's Operating Manual https://docs.google.com/document/d/1i77qBZt-KOZL55l-D42VCcRU9WavU8wVyeMQ6IOAqG8/edit; Operating manual (PDF) https://drive.google.com/file/d/1epYSWqFywOBNFj1Zl19YE00B1wjr2h4O/view
+- Website & Marketing (13): Builders page: how we work with builders (Nick, Vineland Hom https://water2o-builders.sites.tab.bot/; Video carousel (preview) https://water2o-carousel-preview.sites.tab.bot/
+- Sales (13): Leads hiding in your contacts, notes, email and photos (rank [link on zeke-dashboard.sites.tab.bot removed] Rebuttals library [link on zeke-dashboard.sites.tab.bot removed]
+- Proposals & Jobs (9): Audi Downtown LA car wash job brief https://audi-dtla-wash.sites.tab.bot/; Audi DTLA car wash job brief (PDF) [link on zeke-dashboard.sites.tab.bot removed]
+- Plans & Strategy (9): Budget autopilot (PDF) [link on zeke-dashboard.sites.tab.bot removed] Final stack vote (PDF) [link on zeke-dashboard.sites.tab.bot removed]
+- Product pages (7): Reverse osmosis (RO) page https://water2o-ro.sites.tab.bot/; Tankless RO info page on view.water2o.com (preview) https://water2o-info-preview.sites.tab.bot/
+- Dashboards (5): Link Vault: every page Tab built (one tap each) [link on zeke-dashboard.sites.tab.bot removed] Link list as a Google Doc (backup copy) https://docs.google.com/document/d/1PrejJ6b3IdcM0Iua-L1YnPnjh8rYjmjqz8iSaXcJdHE/edit
+- CRM & Tools (4): Jug Spotter https://water2o-spotter.sites.tab.bot/; Lovable prompt: CRM reports (Google Doc) https://docs.google.com/document/d/1dq5aMCD2ygFgQT4758yuh8WzwuakTVTVd7l37zZShU4/edit
+- Partners (4): Jason Sok platform plan (PDF) [link on zeke-dashboard.sites.tab.bot removed] Cindy K. Texas opportunity memo (PDF) [link on zeke-dashboard.sites.tab.bot removed]
+- Procurement (3): Product sourcing Oct 14 (PDF) [link on zeke-dashboard.sites.tab.bot removed] Vendor log (PDF) [link on zeke-dashboard.sites.tab.bot removed]
 - Marketing (2): Business card options (PDF) [link on zeke-dashboard.sites.tab.bot removed] T-shirt tracker (Google Sheet) https://docs.google.com/spreadsheets/d/1ZvwAVlZO6Hgq8KEBzcHhg8QRbvrmnACTwu3EwYUU-9k/edit
+- Sales decks (1): San Fernando Valley builders page https://water2o.com/sfv-builders
+- AI & Systems (1): TAB MASTER FILE (how Tab works) https://docs.google.com/document/d/1aKsf81Aw_NjooFQbSjIj2fzNYYkV7hSHliKYlz6Sdng/edit
 - Website (1): Blog draft: My Softener Has Salt. Why Is My Water Hard Again https://water2o-blog-salt-bridge.sites.tab.bot/
 - Reviews & Reputation (1): Review page [link on view.water2o.com removed]
 - Media Company (1): Media company plan v3 (PDF) [link on zeke-dashboard.sites.tab.bot removed]
 
-## 14. Schedules, Shabbat and hours
+## 15. Schedules, Shabbat and hours
 
 Zeke is Shomer Shabbat: no work touches him, his customers or public channels from Friday sundown to Saturday nightfall (Los Angeles) or on Jewish holidays. Otherwise the company runs on fixed hours and recurring jobs. Full detail: appendix/11-schedules-shabbat.md.
 
@@ -298,7 +466,8 @@ Zeke is Shomer Shabbat: no work touches him, his customers or public channels fr
 
 ### Shabbat and Jewish holidays
 - Shabbat: Friday sundown to Saturday nightfall, Los Angeles; for Zeke nothing electronic. Never call, text, schedule or expect a reply from him then or on a holiday; flag Friday-night or Saturday events. (Oct 21 2026, m:a26c6043; memory/chezy.md)
-- No work actions, sends, posts or notifications on Shabbat. Personal and family background tasks may continue, but still never contact him. (replaces the blanket "nothing runs", Oct 9 2026, memory/chezy.md)
+- No work actions, sends or notifications on Shabbat. Personal and family background tasks may continue, but still never contact him. (replaces the blanket "nothing runs", Oct 9 2026, memory/chezy.md)
+- Posting an approved reel on Shabbat is allowed: the rule is no making money on Shabbat. Quotes, outreach, texts, payments and any message to Zeke still wait for nightfall. (Oct 30 2026, m:e8569e87)
 - Never put a schedule on Shabbat; skip Saturday in any multi-day sequence (example: daily posts ran Oct 22, 23, 25, skipping Saturday Oct 24). (Oct 21 2026, ORG.md; Oct 22 2026, T721)
 - How jobs handle it: every recurring job checks for Shabbat first and ends silently. Jobs that must not be lost re-create themselves for Saturday 9:30 PM, after nightfall. Captured asks snooze to Saturday sunset plus 55 minutes. Dashboard sends are held and queued to the next 9 AM. One catch-up ping after Shabbat, never a pile. (memory/capture-guarantee.md; Oct 20 2026, m:6c1233d8; schedule rules)
 
@@ -318,50 +487,25 @@ Zeke is Shomer Shabbat: no work touches him, his customers or public channels fr
 - Event reminders 1 day and 2 hours before; never for his own recurring personal events. (memory/proximity-events.md; Oct 10 2026)
 
 ### Recurring jobs you should know exist
-They run on their own, skip Shabbat, and reach Zeke only when needed. Full list: appendix/11.
+They run on their own, skip Shabbat, and reach Zeke only when needed. Since Oct 29 the repeat checks run as plain code in one runner that wakes Tab only when it finds something, so a quiet day costs nothing (Zeke "Go code!", m:157705fc; files/go-code/README.md). The live list with times and owners is the TAB MASTER FILE (section 12); the full list by frequency is appendix/11.
+- Every few minutes (code): capture of every Zeke message into the ask ledger (5 min), missed calls (3 min), contact cleaner (5 min), watchdog nag (10 min), CRM database watchdog (15 min).
+- Hourly: #handoff, dashboard refresh, stalled-item nudge (7 AM to 9 PM), after-appointment planner.
+- Daily: IT sweep, inbox lane, 7:20 AM brief, quote sergeant and proposal call hound, dormant-ask sweep, camera scan (every 4 h), filtered-mail review, next-day prep, knowledge loop.
+- Weekly and longer: listings sweep, LinkedIn draft (drafting moved to Ingrid Nov 1), card watch, bookkeeping; every 2 weeks blog, commercial pages, Pickle report; this manual's merge every 3 days when new items came in; monthly procurement strategy and citation sync. Moved to Instinct (Oct 29 to Nov 1): USPS mail scan, Buildnotes sweep, weekly procurement audit, most single follow-ups, the monthly manual and Bible check, the agent speed review. (memory/instinct-split.md)
 
-Every few minutes
-- Capture (every 5 min, on the server): saves every Zeke message and turns each ask into an owned ledger row, so nothing is lost. A 30-minute check, 6 AM to 11 PM, gives owners to anything left unowned. (memory/capture-guarantee.md)
-- Watchdog nag (every 10 min): reminds Zeke of open items waiting on him, on a rising schedule.
-- CRM database watchdog (every 15 min, 7 AM to 10 PM): times the CRM and starts a free fix if it slows, because CRM timeouts must "never happen again." (Oct 19 2026)
-
-Hourly
-- Handoff: every agent's current work posted to Slack #handoff, so anyone can pick up if an agent goes down. (Oct 15 2026)
-- Dashboard refresh: republishes Zeke's dashboard with live data.
-- Stalled-item nudge (7 AM to 9 PM): replies to Tab's own unanswered bubbles with one question and the reply word that unblocks each. (Oct 16 2026, m:685c6b83)
-- After-appointment planner (every 2 h by day): sets a check after each water test that collects the visit media and prepares drafts for Zeke.
-
-Daily
-- 6:30 AM IT sweep of every system; 6:45 AM inbox clean; 6:50 AM check that every agent posted its 6:45 brief.
-- 7:20 AM daily brief (Sun to Fri): one merged brief on the dashboard, one WhatsApp ping. (Oct 20 2026, memory/notification-routing.md)
-- 7:45 AM Google Business post draft for his OK; 7:50 AM mail-scan check for important letters.
-- Quote sergeant (twice daily) and proposal call hound (11 AM and 3:30 PM): push every unsent quote until it goes out.
-- Dormant-ask sweep (9 AM, 3 PM): re-opens any ask that went quiet.
-- Camera scan (every 4 h): reads new phone photos for leads and receipts.
-- 4 PM filtered-mail review; 8 PM next-day prep; 9 PM knowledge loop (rebuttals, FAQ, SOPs from the day's messages).
-
-Weekly and longer
-- Mon listings and reviews sweep; Tue Buildnotes sweep; Wed LinkedIn draft; Sun and Wed card watch.
-- Weekly bookkeeping and weekly procurement audit.
-- Every 2 weeks: blog draft, commercial page improvements, Pickle training report.
-- Every 3 days: this manual's refresh (only when new items came in).
-- Monthly: Bible version check, procurement strategy memo, referral-partner check-ins, citation sync.
-
-## 15. Open questions for Zeke
+## 16. Open questions for Zeke
 
 Until Zeke answers, follow the interim default shown and ask him with a draft before anything goes outward. When he rules, the 3-day merge moves the answer into the right section and deletes the line here. Older settled conflicts and their history: appendix/13-open-questions-sources-history.md.
 
 ### Brand and public proof
 - Tagline: interim slogan "Protecting everything water touches" (Oct 13 2026); the real email signature says "Protecting Property, Plumbing, & People From Bad Water"; the LinkedIn schedule uses "Better Water. Healthier Life." Interim: the Oct 13 interim slogan.
-- Signature title: "Zeke Vogel, CEO" (Bible) vs "Water Treatment Specialist" (real signature). Interim: leave his Gmail signature as it is.
 - Website address: apex https://water2o.com vs www. Interim: apex in all drafts.
 
 ### Process
 - Customer reply speed: "within 15 seconds, check every channel every minute" (Oct 18 to 19, m:a6743f63) vs "under 15 minutes in business hours" (Oct 21, m:a26c6043). Interim: under 15 minutes in business hours; night rule stays one ping.
 - Website publishing: one old rule lets a site change publish once tests pass (Oct 14); newer rules say every website change waits for his OK. Interim: always wait for his "publish".
-- Email closing: older rule "Best, Zeke"; newer rule never types a sign-off because his Gmail signature adds itself (Oct 22 m:749ea01a, Oct 25 m:f6713025). Interim: no typed sign-off.
 - Name on Tab's outbound calls: current call briefs say "This is Tabitha, Zeke's assistant"; an older inferred note said "Cynthia". Interim: Tabitha.
-- Shabbat end: almost every source says Saturday nightfall; one note says Saturday sundown. Interim: nightfall (section 14).
+- Shabbat end: almost every source says Saturday nightfall; one note says Saturday sundown. Interim: nightfall (section 15).
 
 ### Growth strategy
 - David H. growth playbook: cold calling first, discount packages, dropping property managers, automated daily marketing to skip-traced homeowners. These conflict with the relationships-first, no-cold-outreach, no pre-emptive discount rules. Interim: the existing rules hold; nothing automated reaches customers. Zeke answers "hirsch in" or "hirsch out".
@@ -370,10 +514,6 @@ Until Zeke answers, follow the interim default shown and ask him with a draft be
 - RO capacity: the CRM product shows 900 GPD; the spec sheet lists 600, 800 and 1,000 GPD options. Interim: quote the spec sheet option that matches the job and flag it.
 
 ## Changelog
-- Oct 27 2026 (AI Tips scout, worker 9a6d5e13, Zeke m:653842a7): added "From AI Tips & Tricks (Oct 27 2026)" under section 3 Growth levers: past-customer reactivation, agent safety rule, Claude Duet try; watch list marked unverified.
-- Oct 26 2026 (v3.0, lead worker 67b55514, Zeke m:644c34c8): rewritten from v2.1 (144,331 words, Part I + Bible + Core Rules repeating each other) into a 20,083-word training manual in 15 sections, every rule said once (newest wins, dated, sourced). New: section 8 job scopes (Audi DTLA first example), section 9 past proposals index (156 CRM estimates, code-generated), section 13 where everything lives (link hub, code-generated), section 10 sourcing (vendor registry, National Tank Outlet, Norwesco). Full v2.1 detail moved to appendix 01 to 13; archive kept. Refresh changed to a free daily plain-code collector plus a 3-day AI merge that runs only when the inbox has items (schedule a24396c5 replaced accfda43).
-- Oct 26 2026 (proof-and-pricing sweep, worker 4385ffe3): folded Zeke's T964 answers (WhatsApp voice m:8f3636fd, m:e805484e) straight into section 6 (baseline = best online price + 45%, case by case allowed; proof line 1,000+ FINAL, never ask again), section 6 and 11 (Jason Sok $150 per job after the license contract; Audi 40% profit split was case by case). Removed the proof line from section 15. DOCX/PDF/Drive/Slack sync left for the next 3-day merge.
-- 2026-10-26 evening (v3.1, worker ccdd97e6, direct merge with the Grok pack v2): folded 15 new rules and decisions from Oct 26 afternoon into sections 4, 5, 6, 8 and 12 (passwords in one place, ignore Thomas BAI, always send links, shirt wording, one estimate per project, CRM job scope button, CRM history and unknown-number naming, books with invoice files, dashboard keyword search, reel lab, reel cadence, Viral Coach, LinkedIn). Rebuilt DOCX and PDF.
-- Oct 27 2026 (gap fix, Zeke m:e66400a5): added Rule 4 "look before you ask" to section 4, a "Gaps found and fixed" list at the end of section 4, and a Drive watcher line in section 12 (photos and media). Direct edit; DOCX/PDF/Drive/Slack sync left for the next 3-day merge.
+Older lines (v3.0 to v3.5, Oct 26 to Nov 1 2026, and the v1 and v2 history): appendix/13-open-questions-sources-history.md.
+- Nov 2 2026 (v3.6, Zeke voice m:89a852d4): new section 13 "Access and integrations" (every access given, half-done, discussed or wanted: status, how Tab gets in, why; detail in appendix 17; old 13 to 15 became 14 to 16); "send an email" means draft (Nov 1); email ending "Best," with two blank lines and no typed name (Nov 2, settles the open question); Drive search opens every subfolder (Nov 2); read the whole thread first; build only what he asked; whole manual consolidated (duplicates merged, detail to appendices 01, 03, 09, 10, 11, 12, 16), inbox folded.
 
-- 2026-10-28 (v3.2, worker 8e1c942b, Zeke m:8e8a9981): DIRECT EDIT. Added the Claude-only video editing rule (section 4), Zeke's Bible link to the Elly Watson reel (section 3) and a pointer on the reel lab line (section 12). Setup notes files/ai-bible/SETUP.md; routing list memory/video-editing-owner.md. Backup ZEKE-OPERATING-MANUAL.bak-claude-video-20261028.md. DOCX/PDF and the Drive copies are left for the next merge (inbox.md carries the item).
