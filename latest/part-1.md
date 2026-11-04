@@ -1,4 +1,4 @@
-[Master document version 6, part 1 of 2]
+[Master document version 7, part 1 of 2]
 
 # MASTER BIBLE MD FILE 2026-11-03
 ### Zeke's Operating Manual for Water₂O: how the company works. Read this first.
