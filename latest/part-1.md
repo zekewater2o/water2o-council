@@ -1,16 +1,16 @@
-[Master document version 7, part 1 of 2]
+[Master document version 8, part 1 of 2]
 
-# MASTER BIBLE MD FILE 2026-11-03
+# MASTER BIBLE MD FILE 2026-11-05
 ### Zeke's Operating Manual for Water₂O: how the company works. Read this first.
 
-Master Bible MD File, updated Nov 3 2026. The date in the name is the version: Zeke dropped version numbers on Nov 3 2026 ("I don't need the V3.7 naming anymore. Just use Master Bible MD File with the date it was updated", WhatsApp voice 8:03 PM PT, m:9ece8925). Owner: Zeke Vogel, Water₂O. A training manual since Zeke's order of Oct 26 2026 (m:644c34c8): "Everything should be known so I can literally give it to an employee and train them on exactly how the company works." Older versions and the v2.1 archive: appendix/13.
+Master Bible MD File, updated Nov 5 2026. One web link for every AI agent: https://water2o-docs.sites.tab.bot/master-bible.html (raw Markdown: https://water2o-docs.sites.tab.bot/master-bible.md). All AI agents must read it, study it, know it by heart, and always apply its rules when taking on tasks, doing research, etc. The date in the name is the version: Zeke dropped version numbers on Nov 3 2026 ("I don't need the V3.7 naming anymore. Just use Master Bible MD File with the date it was updated", WhatsApp voice 8:03 PM PT, m:9ece8925). Owner: Zeke Vogel, Water₂O. A training manual since Zeke's order of Oct 26 2026 (m:644c34c8): "Everything should be known so I can literally give it to an employee and train them on exactly how the company works." Older versions and the v2.1 archive: appendix/13.
 
 ## 1. Start here
 
 ### What this manual is
 - The one file a new employee or AI agent reads to understand Water₂O: who Zeke is, what we are building, the rules, how we talk, what we sell and for how much, how a sale and a job run, where we buy, who installs, which systems we use and where everything lives.
 - Every rule is said once, where it belongs; the newest version wins. Each ends with its source: the date and Zeke's message reference (m:xxxxxxxx) or the internal file. [inferred] marks a reading Zeke did not say word for word. When in doubt, draft it and ask.
-- This file and its companion documents (Zeke's profile, the Dashboard and CRM chapter, the AI Stack Roundtable, any added later) live in one library, each in PDF, Markdown, plain text and web page, so any person or AI agent can read them: https://water2o-docs.sites.tab.bot/ (every link at the bottom). (Nov 3 2026, m:8d7412bf, m:9ece8925)
+- This file and its companion documents live in one library, each in PDF, Markdown, plain text and web page, so any person or AI agent can read them: https://water2o-docs.sites.tab.bot/ (every link at the bottom). (Nov 3 2026, m:8d7412bf, m:9ece8925)
 - Detail, examples and history live in the appendix files (files/zeke-manual/appendix/); if they disagree with this file, this file wins.
 
 ### How to use it
@@ -33,7 +33,7 @@ Master Bible MD File, updated Nov 3 2026. The date in the name is the version: Z
 ### How this manual stays current (for $0)
 - Name: "Master Bible MD File <date updated>" (newest date wins; no version numbers). The working copy on Tab's box stays files/zeke-manual/ZEKE-OPERATING-MANUAL.md. (Nov 3 2026, m:9ece8925)
 - A plain-code collector (no AI, $0) runs nightly at 9 PM Los Angeles time and appends anything new to files/zeke-manual/inbox.md. Every 3 days at 9:30 PM a check runs: an empty inbox costs nothing; otherwise one AI worker folds the items in (newest rule wins, said once), rebuilds the PDF and syncs every copy.
-- Copies, all replaced with each new date: Google Drive (zeke@water2o.com, folder "Water₂O Operating Manual", owner only): the MD file https://drive.google.com/file/d/1fAOdV5KwgO5wJf86mm5IoFKMIqKaN84H/view and the PDF https://drive.google.com/file/d/1epYSWqFywOBNFj1Zl19YE00B1wjr2h4O/view; pinned in Slack #agents; the AI council hub and Agent Hub; the files of the ChatGPT projects "Water₂O Operations" and "Pablo AI Operations"; the companion library (bottom); his dashboard Link Vault (search "manual" or "bible").
+- Copies, all replaced with each new date: Google Drive (zeke@water2o.com, folder "Water₂O Operating Manual", owner only): the Google Doc "Master Bible MD File YYYY-MM-DD" https://docs.google.com/document/d/17biO6R2BXM_kY-tkV395lhrG0LLLkuC1rbeIhVinQ7c/edit, the raw MD file https://drive.google.com/file/d/1fAOdV5KwgO5wJf86mm5IoFKMIqKaN84H/view and the PDF https://drive.google.com/file/d/1epYSWqFywOBNFj1Zl19YE00B1wjr2h4O/view; the one web link for agents https://water2o-docs.sites.tab.bot/master-bible.html; pinned in Slack #agents; the AI council hub and Agent Hub; the files of the ChatGPT projects "Water₂O Operations" and "Pablo AI Operations"; the companion library (bottom); his dashboard Link Vault (search "manual" or "bible").
 - Left out on purpose: anything from private personal groups, family finances, health details, passwords and codes, customer home addresses and private phone numbers.
 
 ### Appendix files
@@ -273,6 +273,28 @@ Read this before you contact anyone or spend anything. Rules at the top outrank 
 
 ### Gaps found and fixed
 - Each gap and its fix (for example the Oct 27 North Lake video that sat unseen in his Drive for 6 hours, which created Rule 4): files/departments/gaps-and-fixes.md and appendix/03. (m:e66400a5)
+
+### New laws since Nov 3 2026 (said once here; newest wins)
+- One link for agents: the whole Master Bible is ONE web page any AI agent can open and read with no login: https://water2o-docs.sites.tab.bot/master-bible.html, raw Markdown at https://water2o-docs.sites.tab.bot/master-bible.md. All AI agents must read it, study it, know it by heart, and always apply its rules when taking on tasks, doing research, etc. The Google Doc "Master Bible MD File YYYY-MM-DD" in his Drive is the same text. (Nov 5 2026, WhatsApp 11:19 AM PT)
+- Access list is complete or it is wrong: every account, card, device, app and profile Tab can reach goes in section 13, one row each, names and last 4 digits only. (Nov 5 2026, WhatsApp 11:23 AM PT)
+- Check the CRM job scope FIRST before answering or asking anything about a job's specs. (Nov 5 2026, voice 9:53 AM PT)
+- When he sends a screen recording, study every second and every word, and follow what he points at on screen; the newest recording wins. When he asks for a second opinion, show both sets side by side and let him pick. (Nov 5 2026, 12:08 and 12:26 PM PT)
+- Say how the work will be done, naming every system involved (for example the Claude on his Mac as well as Tab's own code), so he can see nothing is missed. (Nov 5 2026, m:74f12dbc)
+- Paste the full draft (email and text) in the WhatsApp bubble itself; never make him open email or files to read it. (Nov 4 2026, m:0defcf07)
+- When a worker finishes something he asked for, he gets the result the same turn; a question waiting on him gets one nudge the next morning. (Nov 4 2026, lesson)
+- Every named contact in the CRM is also saved to his Google Contacts (chezy4) automatically, with every number they call from, so caller ID shows who it is. Never ask first. (Nov 4 2026, m:fb1d689c)
+- Before proposing any appointment time, check his calendars (zeke@, chezy4, CRM) and flag conflicts yourself. Peacock blue events are his; darker blue belong to someone else. (Nov 4 2026, m:05b6fe58, m:757a5836)
+- Appointments are created only in the CRM, which sends the customer's invite. A customer and an installer are never on the same event or email; an installer's personal email never reaches a customer. (Nov 4 2026, m:e06f7f8a, m:2e78d323)
+- "Tiny charge" means pennies, under $1 a month; ask with the exact price first. (Nov 4 2026)
+- The review link to customers is always https://water2o.com/review. (Nov 4 2026)
+- Designers and architects get their own pitch, never the builder "water sub" line. (Nov 4 2026, m:505b7d74)
+- Sound human, with context: continue the thread a person is already in; first text from the business line to someone who knows him: "Hey [Name], it's Zeke, this is my work cell." (Nov 4 2026, m:44fc49ee)
+- His name in any self-introduction is only "Zeke" or "Chezy", never any other spelling. Enforced in code. (Nov 4 2026, m:003df66c)
+
+### The codes (how Tab and Zeke talk)
+- Every bubble Tab sends him starts with the next T-code (T1732 is next as of Nov 5 2026) so he can answer "T123 yes" or reply to it. New topic, new number; a follow-up on the same topic adds a letter (T502B). Drafts carry a code; the code never goes into a client's text. Log: memory/chezy-message-codes.md. (Oct 16 2026, m:bd522def)
+- He may answer by quoting the number with another letter (for example "C1723" on Nov 5 2026 answered T1723); treat it as a reply to that T-code.
+- Reply words he can use: "send", "send <name>", "post", "publish", "ok", "T123 yes". His voice notes count as his words. (section 4 above)
 
 ## 5. Voice and style
 
@@ -584,36 +606,3 @@ This is the path from a new lead to a finished install, in the order you run it.
 - When Zeke says "send Jason", the approved text goes to Jason Sok (primary installer) through the CRM. No reply in 24 hours: a follow-up text. No reply at 36 hours: the scope goes to the backup installer and Zeke is told. A Jason reply cancels both. (Oct 19 2026, memory/after-appointment-system.md)
 
 ### Step 5: Estimate
-- Build and send per section 6: one "Solution" tier, CRM draft, Zeke's OK, sent from the CRM with no total in the email. Quote within 24 hours of the visit. (Oct 19 to 21 2026)
-- Never quote an exact system without a test or clear photos. (section 6)
-
-### Step 6: Follow-up rhythm
-- Follow up every sent quote until won or dead. The quote sergeant and watchdog push Zeke at 24, 48 and 72 hours on unsent quotes; quiet sent quotes over 14 days get a follow-up draft. (memory/quote-sergeant.md)
-- "Do not harass leads." Cap at 1 to 2 attempts per person, per issue, per day, then hand to Zeke. Check Slack, the inbox and CRM texts before every follow-up. (Oct 19 to 20 2026, m:31775e0e)
-- Cold outreach cadence (proposed): day 1 email, day 4 call, day 8 email with free-test offer, day 15, day 22 breakup. (Oct 9 2026, memory/water2o-outreach.md)
-- Long follow-ups (a month or six months) go on a schedule so nobody has to remember. (memory/chezy-message-codes.md)
-
-### Step 7: Objections and rebuttals
-- The rebuttal library is one CRM table, searchable at https://app.water2o.com/rebuttals (type what the customer said) and mirrored on Zeke's dashboard (#rebuttals). Log new objections with "+ Log objection"; mark Worked or Didn't after use. (Oct 21 2026, m:5b4bd054; memory/rebuttal-library.md)
-- Price objection: never discount pre-emptively, never negotiate against yourself. Ask "compared to what?", isolate the real objection, then stand on value. Price match only as a last resort (section 6). (Bible 4; Oct 12 2026 rule)
-- "I'm getting other quotes": stay low-key, one option, few numbers. Competitor quoted an RO: price our filtration just below it. (Oct 21 2026, knowledge loop; memory/julian-kim-audi.md)
-
-### Step 8: Close and install handoff
-- A customer is scheduled only after paying the FULL balance (through the estimate link). Never write "approve the estimate or reply approved to lock a spot", and never ask the customer which day works: Zeke checks with his installer and tells them the soonest date. Never invent process or terms in a draft. (Nov 3 2026, m:a06de5b6; replaces "full balance due before installation begins", Bible 7)
-- When a customer pays for service: put it on the calendar through the CRM and text them a two-hour arrival window. (Oct 20 2026, m:c17f07e2)
-- On site: no extra drilling, plumbing or electrical without approval; photos before and after; clean up everything. (Bible 7)
-- If the customer solved it themselves: "great, I'm glad you're covered", and close the job. (Oct 20 2026, m:bf93e639)
-
-### Step 9: Review and referral
-- Request a review after every install. (Oct 21 2026, m:a26c6043)
-- Ask on Thumbtack, BBB, Facebook, Trustpilot and Google. Never send a Yelp "write a review" link: Yelp forbids soliciting. (Oct 6 2026, memory/chezy.md)
-- Before a scheduled review text goes out, check whether the customer texted since; if so, answer first and hold it. (Oct 19 2026, m:fe283843)
-- Offer the $350 referral rebate to happy customers. Withhold it from a first proposal to a big builder or power partner: do the install well first. (Oct 22 2026, m:7e99dae6; Bible 7)
-- Then ask "what's next": reuse, upsell, care plan, partnership. (forever-task rule)
-
-### Networking: LeTip and BNI
-- Networking is Zeke's end-state job (section 3). His group is LeTip, Porter Ranch chapter (spelled LeTip, never "LaTip"); BNI mixers too. Referrals from them price at full margin (section 6). (Nov 3 2026, m:ee6c9e55)
-- His Networking Presentation, presented Thu Nov 5 2026 in Porter Ranch: https://water2o.com/networking-presentation (live Nov 3 2026; noindex on purpose because it has family photos; one big photo per slide, laptop first). Reuse it for any chapter, mixer or partner meeting. (Nov 3 2026, m:7ca86f08)
-
-### Referral partners and trade outreach
-- Save every trade contact into the Rolodex so Water₂O is "the guy who knows everybody". WhatsApp group hits get a personal package (their logo, Zeke's voice, the real context), never a blast. (Oct 27 2026, m:4fcb5d0f, m:79e1e369)

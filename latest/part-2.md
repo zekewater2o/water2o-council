@@ -1,5 +1,38 @@
-[Master document version 7, part 2 of 2]
+[Master document version 8, part 2 of 2]
 
+- Build and send per section 6: one "Solution" tier, CRM draft, Zeke's OK, sent from the CRM with no total in the email. Quote within 24 hours of the visit. (Oct 19 to 21 2026)
+- Never quote an exact system without a test or clear photos. (section 6)
+
+### Step 6: Follow-up rhythm
+- Follow up every sent quote until won or dead. The quote sergeant and watchdog push Zeke at 24, 48 and 72 hours on unsent quotes; quiet sent quotes over 14 days get a follow-up draft. (memory/quote-sergeant.md)
+- "Do not harass leads." Cap at 1 to 2 attempts per person, per issue, per day, then hand to Zeke. Check Slack, the inbox and CRM texts before every follow-up. (Oct 19 to 20 2026, m:31775e0e)
+- Cold outreach cadence (proposed): day 1 email, day 4 call, day 8 email with free-test offer, day 15, day 22 breakup. (Oct 9 2026, memory/water2o-outreach.md)
+- Long follow-ups (a month or six months) go on a schedule so nobody has to remember. (memory/chezy-message-codes.md)
+
+### Step 7: Objections and rebuttals
+- The rebuttal library is one CRM table, searchable at https://app.water2o.com/rebuttals (type what the customer said) and mirrored on Zeke's dashboard (#rebuttals). Log new objections with "+ Log objection"; mark Worked or Didn't after use. (Oct 21 2026, m:5b4bd054; memory/rebuttal-library.md)
+- Price objection: never discount pre-emptively, never negotiate against yourself. Ask "compared to what?", isolate the real objection, then stand on value. Price match only as a last resort (section 6). (Bible 4; Oct 12 2026 rule)
+- "I'm getting other quotes": stay low-key, one option, few numbers. Competitor quoted an RO: price our filtration just below it. (Oct 21 2026, knowledge loop; memory/julian-kim-audi.md)
+
+### Step 8: Close and install handoff
+- A customer is scheduled only after paying the FULL balance (through the estimate link). Never write "approve the estimate or reply approved to lock a spot", and never ask the customer which day works: Zeke checks with his installer and tells them the soonest date. Never invent process or terms in a draft. (Nov 3 2026, m:a06de5b6; replaces "full balance due before installation begins", Bible 7)
+- When a customer pays for service: put it on the calendar through the CRM and text them a two-hour arrival window. (Oct 20 2026, m:c17f07e2)
+- On site: no extra drilling, plumbing or electrical without approval; photos before and after; clean up everything. (Bible 7)
+- If the customer solved it themselves: "great, I'm glad you're covered", and close the job. (Oct 20 2026, m:bf93e639)
+
+### Step 9: Review and referral
+- Request a review after every install. (Oct 21 2026, m:a26c6043)
+- Ask on Thumbtack, BBB, Facebook, Trustpilot and Google. Never send a Yelp "write a review" link: Yelp forbids soliciting. (Oct 6 2026, memory/chezy.md)
+- Before a scheduled review text goes out, check whether the customer texted since; if so, answer first and hold it. (Oct 19 2026, m:fe283843)
+- Offer the $350 referral rebate to happy customers. Withhold it from a first proposal to a big builder or power partner: do the install well first. (Oct 22 2026, m:7e99dae6; Bible 7)
+- Then ask "what's next": reuse, upsell, care plan, partnership. (forever-task rule)
+
+### Networking: LeTip and BNI
+- Networking is Zeke's end-state job (section 3). His group is LeTip, Porter Ranch chapter (spelled LeTip, never "LaTip"); BNI mixers too. Referrals from them price at full margin (section 6). (Nov 3 2026, m:ee6c9e55)
+- His Networking Presentation, presented Thu Nov 5 2026 in Porter Ranch: https://water2o.com/networking-presentation (live Nov 3 2026; noindex on purpose because it has family photos; one big photo per slide, laptop first). Reuse it for any chapter, mixer or partner meeting. (Nov 3 2026, m:7ca86f08)
+
+### Referral partners and trade outreach
+- Save every trade contact into the Rolodex so Water₂O is "the guy who knows everybody". WhatsApp group hits get a personal package (their logo, Zeke's voice, the real context), never a blast. (Oct 27 2026, m:4fcb5d0f, m:79e1e369)
 - Targets: realtors (housewarming gift: free RO, client pays the yearly plan), property managers, builders, contractors, plumbers; commercial: hotels, restaurants, coffee, spas, cannabis, pharma, solar, labs. Any trade on a lead photo: research the partnership angle first (sub, referral fee, reverse sub, bundle), and ask "does this pitch reduce their own business?" (Oct 19 to 21 2026, m:e5137315, m:ba1c00a3)
 - Plumbers, HVAC and anyone who could sell filtration are potential competitors: no /builder link, no pricing; a two-branch "if you already do this / if you don't" message. (memory/lead-photos-handoff.md)
 - Builders: first touch leads with "Happy to be your water system sub" plus their city page https://water2o.com/rebuild/<city-slug> (any city: https://water2o.com/rebuild?city=Name), closes with "Happy to connect with you"; money terms later; never a tab.bot link, never sound desperate. (Nov 1 2026, m:ec43b78a; Oct 22 2026, m:096eedbc)
@@ -177,6 +210,9 @@ Compare three delivery models with real numbers per job: (1) a partner who carri
 - Hire only on job-relevant traits (motivation, communication, language, initiative). (Sep 25 2026, ChatGPT "Commission Recommendation")
 - Sales rep commission is NOT settled. The starter proposal is 7% of collected revenue on company leads and 10% on self-generated leads, paid after collection, net of fees. Weigh any rate against job margin (target 60%+). Ask Zeke before stating any commission as policy. (Sep 24 2026; Oct 13 2026, ChatGPT project summary)
 
+### Team faces: who is who
+Zeke, Julio, Jason, Shuki, Andrew, Ikey and Vince: descriptions and reference photos are in memory/water2o-team-who-is-who.md (photos in files/team/faces/). Check it before any image or face match; never guess (Zeke, Nov 4 2026).
+
 ## 12. Systems: CRM, dashboard, Slack, mail
 
 Every tool Water₂O runs on, what it is for, and the rules for using it. No passwords, keys or account numbers live in this manual: logins sit in Tab's vault. Full detail: appendix/12-systems.md, appendix/08-team-agents.md, appendix/07-photo-media.md.
@@ -264,109 +300,173 @@ The AI team: Tabitha (Tab, Chief of Staff and manager of all agents), Cooper (Mu
 
 ## 13. Access and integrations: what Tab can reach, how, and why
 
-Every access Zeke has given Tab, half-given, discussed or wanted, so any human or agent sees what is connected, how and why. Zeke's order (Nov 2 2026, m:89a852d4): "Any access ever given to you or discussed to give to you should be listed... how you get access to that and the goal of why." Per-item detail: appendix/17-access-integrations.md; saved sign-ins (names only): `node wallet-cli.mjs item-list`; live systems map: the TAB MASTER FILE (section 12).
+Every account, card, device, app and profile Tab has ever been connected to, holds a saved sign-in for, or was asked to get, one row each. Rebuilt Nov 5 2026 on Zeke's order (WhatsApp 11:23 AM PT): "include every single thing you ever have connected to, have access to, or have the passcode to... This section should be much longer and much more detailed." Built from the real record that day: Tab's vault list (37 saved sign-ins and 41 vault items, names only), the connected-apps list (9 grants), the saved browser profiles named in Tab's notes, the cards file, the phone and Mac notes, the listings registry, and the 89 add-login (vault) links Tab sent him since Oct 2 2026. Earlier version: Nov 2 2026 (m:89a852d4). Per-item notes, gotchas and profile ids: appendix/17-access-integrations.md. This section is exempt from the 25,000 word cap (Zeke, Nov 5 2026).
 
 ### How to read this section
-- **No secret values appear here** or anywhere: a sign-in is filled by a script from Tab's vault; nobody, the AI included, reads it. (Oct 26 2026, m:f15ea062)
-- **Status:** Done, Partly, Waiting on Zeke, Blocked, Discussed, Ended. **Methods:** connected app, vault sign-in (typed by him into an add-login link), saved browser profile, API key, device link, remote control, code on Tab's box.
-- **His access rules:** ask for the widest useful access; keep every access permanent; name every switch of a restricted key; every AI agent gets the same access as Tab; check the vault, profiles, apps and both Gmails before asking him for a sign-in. Sending, paying and posting still need his OK. Sources: appendix/17. (Oct 6 to 21 2026, m:5005f274, m:8fe35b51, m:a8b70437, m:5264a4c3)
+- **No secret values appear here, ever**: no sign-in values, PINs, codes, keys, tokens or full card or account numbers. Cards and accounts show the last 4 digits only. A sign-in is filled by a script straight from Tab's vault; nobody, the AI included, reads the value. (Oct 26 2026, m:f15ea062)
+- **Status words**: Works (used successfully, newest proof dated), Partly (works with a known gap), Saved (sign-in is in the vault, not needed yet), Waiting on Zeke (one step only he can do), Blocked (the site refuses; a fix is named), Ended (stopped on purpose), Not on file (no access yet).
+- **Ways in**: **Connected app** = he approved access on the provider's own screen. **Vault sign-in** = he typed it into an add-login link and it went straight to the vault. **Saved profile** = a private browser that stays signed in (short id in appendix 17). **Key** = an API key he created, kept in the vault. **Remote control** = Tab drives a real screen (office Mac or his phone). **Wallet card** = a card saved in Tab's wallet for approved purchases.
+- **Standing access rules**: ask for the widest useful access (Oct 6 2026, m:5005f274); keep every access permanent and avoid anything that logs Tab out (Oct 11 2026, m:8fe35b51); every AI agent should get the same access Tab has (Oct 14 2026, m:a8b70437); before asking him for any sign-in, check the vault, saved profiles, connected apps, both Gmails and the MASTER SHEET Logins tab (Oct 21 2026, m:5264a4c3); never ask him for a code Tab can read itself (inboxes, Google Messages); full authority on the office Mac, no security excuses (Oct 27 2026, m:a9b6ad1e). Reading is free; paying, sending and posting still need his OK on the exact action (section 4).
 
-### Google accounts and mail
-| Access | Status | How Tab gets in | Why (Zeke's goal, date) |
-|---|---|---|---|
-| zeke@water2o.com: Gmail, Calendar, Drive, Docs, Sheets, Contacts, Tasks | Done since Oct 5 2026 | Connected app; vault sign-in and saved profile for web-only screens (Business Profile, Gemini, Cursor, Chrome Remote Desktop) | Business mail, calendar and files; his approved emails go out as him; job media in Drive (Nov 2 2026, m:b04d05c3) |
-| chezy4@gmail.com (personal Gmail) | Done since Oct 3 2026 (mail only by app) | Connected app for Gmail; vault sign-in and saved profile for Photos, Drive, Contacts and saved sign-ins | Banks, cards, Thumbtack mail; his phone photos and contacts live here (memory/phone-access.md) |
-| chezandchev@gmail.com (family Gmail, shared with Chev) | Done since Oct 15 2026, READ ONLY | Connected app | Catch household and shared mail; never cleaned, labeled or sent from (Oct 21 2026, memory/inbox-agent.md) |
-| Google recovery codes for both Google accounts | Done Oct 20 2026 | Vault note; one used only when Google insists, logged | So Google stops needing his phone for every sign-in (Oct 20 2026, m:2dbe8f13) |
-| Google's saved sign-ins on chezy4 | Done Oct 26 2026 | 54 sign-ins imported from the MASTER SHEET | One place for his sign-ins (Oct 26 2026, m:f15ea062) |
-| Water₂O MASTER SHEET (Logins tab and library) | Done | Read live through the zeke@ grant | His master list of tools and logins; check it before asking him (Oct 21 2026, m:5264a4c3) |
-| Google Photos (camera scan of his Galaxy) | Done since Oct 22 2026 | Saved chezy4 profile, read only, every 4 hours | "Scan every single photo that comes in": leads, receipts, install media (Oct 14 2026, m:a6505e8d) |
-| Drive watcher on zeke@ | Done since Oct 27 2026 | Code every 10 minutes through the zeke@ grant | Media he uploads himself is never missed again (Oct 27 2026, m:e66400a5) |
-| Tab's own mailbox zeke.vogel@mail.tab.bot | Done | Tab's own address; agents and services write to it | Agent mail and briefs; never for customers (section 4) |
-| tl;dv meeting recorder | Done Oct 29 2026 | Free bot on his zeke@ Meets | Record every meeting as intelligence (Oct 29 2026, memory/zeke-record-everything.md) |
+### A. Banks and credit cards
+| Item | How Tab gets in | Status | Added | Why |
+|---|---|---|---|---|
+| American Express sign-in (all his Amex cards) | Vault sign-in "Amex, Chezy's credit cards" + saved profile; a code goes to chezy4 email and Tab reads it there | Works (autopay change Nov 2 2026) | Oct 2 2026 | Manage every card, never let it sleep (Oct 9 2026 voice) |
+| Amex Business Green Rewards 1002 (main business card) | Amex sign-in; also Tab's default wallet card | Works | Oct 2 2026; wallet Oct 19 | Main business spend; approved purchases |
+| Amex Delta SkyMiles Platinum Business 2004 | Amex sign-in; wallet card | Works; autopay back to full balance due Nov 8 2026 | Oct 2 2026; wallet Oct 8 | Business spend, Bristol West payments |
+| Amex Blue Cash Everyday 2007 (personal) | Amex sign-in | Works | Oct 2 2026 | Spectrum bill anchor, groceries and gas rewards |
+| Chase sign-in (Freedom 8791, Prime Visa 4651, checking 6879) | Vault sign-in + saved profile; Chase texts a code to his 410 each time and Tab reads it in Google Messages | Partly (a code every sign-in) | Oct 2 2026 | Card schedule, autopay checks |
+| Chase Freedom 8791 | Chase sign-in; issuer emails | Works (read) | Oct 2 2026 | Quarterly 5% activation |
+| Chase Prime Visa 4651 | Chase sign-in; wallet card | Works | Oct 2 2026; wallet Oct 9 | Amazon purchases, activity target |
+| Chase checking 6879 | Chase sign-in | Partly (code each time) | Oct 2 2026 | Pays the Amex, WF and Bilt autopays; check it 2 days before each pull (it bounced 4 times in 2026) |
+| Wells Fargo sign-in (Autograph Visa 2326) | Vault sign-in + saved profile on an LA home-internet exit | Works | Oct 3 2026; wallet Oct 23 | Card schedule, activity target |
+| Bilt Mastercard 3079 | Vault sign-in "Bilt" | Saved | Oct 2 2026 | Rent card |
+| Bank of America (checking 9287) | Vault sign-in + saved profile, no code needed | Works (read) | Oct 3 2026 | Balances, Zelle |
+| Bank of America debit card PIN (Zelle recipient step only) | Vault item | Saved | Oct 20 2026 | Add a Zelle recipient when he approves a payment |
+| Happen Bank (formerly LendingClub) | Vault sign-in | Saved | Oct 3 2026 | Track the loan payment |
+| Tab's wallet: 4 cards (Amex 1002 default, Amex 2004, Visa 4651, Visa 2326) | Wallet cards; Tab never sees the number | Works | Oct 8 to 23 2026 | Purchases he approves |
 
-### Messaging, phone and remote devices
-| Access | Status | How Tab gets in | Why (Zeke's goal, date) |
-|---|---|---|---|
-| WhatsApp chat with Tab (Tab's own WhatsApp number) | Done | Tab's own number | His main line to Tab; it cannot message third parties |
-| Tab as a read-only linked device on his WhatsApp | Waiting on Zeke: LOGGED OUT since Oct 30 2026 1:43 AM PT | Device link: WhatsApp Web in a private browser profile, read by code every 10 minutes; never sends, reacts or opens a chat. Linked Oct 27 2026 5:54 PM PT (m:bdd6bee1). Relink: he replies "link whatsapp" and scans the code in Linked devices, never on Shabbat | Three WhatsApp agents: Mirage pool leads, the deal hunter, the AI Tips scout (Oct 27 2026, m:82070476); paused until relinked |
-| His WhatsApp Web on the office Mac | Done (slow, about 1 minute per chat) | Remote control through Chrome Remote Desktop | Read and draft freely; sending in his WhatsApp needs his OK on the words (Oct 26 2026, m:5ddc17cd; Oct 27 2026, m:a9b6ad1e) |
-| Office Mac mini (Riverside office) | Done Oct 18 to 19 2026 | Remote control (Chrome Remote Desktop, PIN and Mac sign-in in the vault); auto-login on; Find My on zeke@; daily online check | Full control "no holds barred" for every agent, desktop-only apps, theft check (Oct 16 2026, m:8d57ebe8; Oct 19 2026, m:c9577643) |
-| AnyDesk remote control of his Galaxy S25+ | Done Nov 3 2026 (unattended) | AnyDesk unattended access with Zeke's own password, held only in the vault; how it works below | Phone space "managed autonomously ... completed and handled for the future" (Nov 3 2026 10:39 AM, m:e5ce3ab4; first asked Oct 31, m:269060d0) |
-| His personal 410 number texts | Done for sending (proven Oct 19 2026); reading codes Partly | Google Messages for Web paired with his phone, in a saved browser profile | "USE MY NUMBER" (Oct 18 2026, m:fa30f945); read bank codes so he never forwards them (Oct 22 2026) |
-| Business line [phone removed] texts and calls | Done | The CRM's texting, through the SMS guard | All customer texting (section 12) |
-| Tab's own calling line | Done | Tab's own phone; calls to Zeke paused since Oct 27 (section 2) | Suppliers, offices, money hounding (Oct 21 2026, m:bacfc9bc) |
-| Phone texts and contacts audit | Partly | SMS Backup & Restore to zeke@ Drive (first file too big to read whole); contacts read in the chezy4 profile; MacroDroid forwarding never delivered (Google's Allow step not done) | Audit contacts and texts, read and answer texts (Oct 15 to 17 2026, m:bdf638a8, m:0fb011c4) |
+### B. Payments, money apps and books
+| Item | How Tab gets in | Status | Added | Why |
+|---|---|---|---|---|
+| Stripe dashboard (Water2O) | Vault sign-in | Works | Oct 5 2026 | Payments, payouts, customers |
+| Stripe read-only key | Key | Works | Oct 5 2026 | Weekly bookkeeping matches income to jobs |
+| Stripe subscriptions key (read and write) | Key | Saved | Oct 6 2026 | Care plan billing |
+| Stripe full-access restricted key | Key | Saved, used only on his OK | Oct 6 2026 | Charges and refunds he approves |
+| PayPal (Chezy / Water2O) | Vault sign-in | Saved | Oct 6 2026 | Payments in and out |
+| Venmo | Vault sign-in | Saved | Oct 6 2026 | Payments in and out |
+| QuickBooks (Intuit) | Vault sign-in | Saved; Intuit sent a lock notice Oct 6 2026, not re-tested | Oct 3 2026 | Books (Oct 26 2026, m:7e0d6ef1) |
+| Accountant view (CRM P&L, read only) | CRM link | Works | Oct 26 2026 | Weekly books check, tax time |
+| UCFS dealer portal (customer financing) | Vault sign-in | Works | Oct 21 2026 | Customer financing applications |
 
-### His phone by remote control (AnyDesk): how and why
-- **Why:** his Galaxy S25+ (256 GB) sat at 92 to 98% full. Zeke's order, Nov 3 2026 10:39 AM (m:e5ce3ab4): "I need my phone space managed autonomously ... completed and handled for the future." That order is the authority for unattended access. (Oct 31 2026, m:269060d0)
-- **Our side:** AnyDesk for Linux (free license) runs headless on Tab's own computer, on its own virtual screen. Tab sees the phone by screenshot and taps by mouse, re-checking the screen after every action; it never acts blind.
-- **His side, set Nov 3 2026:** AnyDesk Settings, Access, Interactive Access = "Always show incoming session requests" (so the phone answers even with the app in the background); Permissions, profile "Unattended Access", Enable unattended access, with a password Zeke typed himself on the phone (the phone shows that screen black to a remote viewer). He saved the same password through a Tab add-login link, so it sits only in the vault. The first connection needed his Accept tap and "Full Access" on the scam warning; none since.
-- **Connecting:** files/phone-remote/connect-unattended.sh takes the newest vault login labelled "AnyDesk unattended" and pipes the password straight into AnyDesk's stdin (--with-password). It is never printed, logged or written to a file. Runbook: files/phone-remote/RUNBOOK.md.
-- **Free-license limit:** AnyDesk closes every session after about 14 minutes ("closed due to license limitations"). Work in chunks under 14 minutes and simply reconnect; unattended needs no tap.
-- **Monthly, unattended:** a schedule runs the first Sunday of each month at 10 AM PT (never Shabbat or a holiday; each run books the next). A worker connects, measures storage, then does only Zeke's scope: Google Photos "Free up space" after Backup complete on chezy4@gmail.com; WhatsApp media of "Forwarded many times" and a few named news groups (never any chat, never family media); clear CACHE (never data) of Chrome, Instagram, TikTok, YouTube, Facebook; empty the recycle bins; old .apk installers and exact duplicates in Downloads. It re-measures, logs before and after, disconnects so his screen is free, and tells him one line only if storage stays above 85% or the connection failed.
-- **Never:** chats, app data, uninstalls, unbacked personal photos, anything beyond the storage screens; if the screen moves on its own, he is using it: wait.
+### C. Google accounts
+| Item | How Tab gets in | Status | Added | Why |
+|---|---|---|---|---|
+| zeke@water2o.com: Gmail, Calendar, Drive, Docs, Sheets, Slides, Contacts, Tasks | Connected app (Workspace) | Works | Oct 5 2026 | His business mail, calendar and files |
+| zeke@ Google sign-in in a browser | Vault sign-in + saved profile | Works | Oct 13 2026 | Business Profile, Gemini, Cursor, Lovable, Chrome Remote Desktop, Find My |
+| zeke@ Google recovery codes | Vault note (exists; never shown) | Saved | Oct 20 2026 | Get back in if Google asks |
+| chezy4@gmail.com Gmail | Connected app | Works | Oct 3 2026 | Personal mail, card and bank alerts, codes |
+| chezy4 Google sign-in in a browser | Vault sign-in "Google, chezy4" + saved profile | Works | Oct 13 2026 | Photos, Contacts, Drive, Google One |
+| chezy4 Google recovery codes | Vault note (exists; never shown) | Saved | Oct 20 2026 | Keep the camera scan signed in |
+| chezandchev@gmail.com (family Gmail) | Connected app, READ ONLY | Works | Oct 15 2026 | Family logistics |
+| Google Photos (chezy4) | Saved profile, read only, every 4 hours | Works | Oct 22 2026 | Camera scan: every work photo becomes a lead, receipt or draft |
+| Google Contacts (chezy4) | Saved profile | Works | Nov 5 2026 | Every named CRM contact saved for caller ID (Nov 4 2026, m:fb1d689c) |
+| Google Messages for Web (his 410 phone paired) | Saved profile | Works | Oct 19 2026 | Read codes texted to his 410; send from the 410 on his OK |
+| Water₂O MASTER SHEET (Logins tab and library) | zeke@ connection | Works | Oct 2026 | His own list of logins and links |
+| Chrome saved sign-ins on chezy4 (54 imported) | Imported from the MASTER SHEET | Done | Oct 26 2026 | One place for sign-ins |
+| Drive watcher on zeke@ | Code every 10 minutes | Works | Oct 27 2026 | Job photos and videos he uploads get filed |
+| getwater2o.com Workspace mailboxes: zeke@, zeke.vogel@, z.vogel@ | Vault sign-ins (3) | Works | Oct 28 2026 | Cold email that never risks zeke@water2o.com |
+| Gemini API key (zeke@) | Key | Partly (free tier, rate limited) | Oct 19 2026 | A permanent Gemini seat on the council |
 
-### Business systems
-| Access | Status | How Tab gets in | Why (Zeke's goal, date) |
-|---|---|---|---|
-| CRM app.water2o.com (agent login) | Done since Oct 3 2026 | Vault sign-in, Tab's own agent user; scripts use its session, additive only | Single source of truth (section 12) |
-| CRM owner login (Zeke's) | Done Oct 19 2026, for admin steps only | Vault sign-in | Create agent logins only (Oct 19 2026) |
-| GitHub zekewater2o: repos water2o-crm, the site repo (hug-of-code-10), water2o-council | Done since Oct 19 2026 | Connected app | Code fixes on branches, tested, then published |
-| Lovable (two accounts) | Done Oct 7 2026; plan lowered Nov 3 2026 | Vault sign-ins. Pro 2,000 ($480) moves to Pro 100 ($25 a month) from Nov 29 2026, which keeps water2o.com and the CRM live; refund of the Oct 29 charge requested | Publish tested builds; credits only when needed (Nov 3 2026, m:4bdc5f6b) |
-| Stripe | Done Oct 5 to 6 2026 | Vault: dashboard sign-in plus read-only, subscriptions and restricted API keys | Payment alerts and bookkeeping; read only unless he OKs (Oct 14 2026, m:af413be8) |
-| Slack water2o.slack.com | Done since Oct 12 2026 | Connected app as "Tabitha" plus a read-only grant on Zeke's user (never post as him); agent app credentials in the vault | The agents' back office (section 12) |
-| ZekeOS dashboard zeke-dashboard.sites.tab.bot | Done | Tab publishes it; sign-in in the vault | His private screen (section 12) |
-| Agent Hub (app.water2o.com/ask) and the AI council hub (zeke-council-hub-0e51976e.sites.tab.bot) | Done | Agent Hub: a CRM page whose boxes wake Tab, who answers in the box. Council hub: published by Tab, each AI joins with its own link, hidden from search engines since Nov 3; it carries this Master Bible as its master doc. Both listed internal-only in the CRM Landing pages | Give every agent a job in one place; his AIs review the business (Oct 27 2026, m:886efa49; Nov 3 2026, m:89a852d4) |
-| Notion | Partly (Oct 16 2026) | Connected app; only template pages are visible | Considered as the organized home for tasks and sign-ins (Oct 16 2026, m:8d7ebc66, m:f451b362) |
-| Trello | Partly (Oct 16 2026) | Connected app; card text readable, sign-in values come back hidden and no Trello web sign-in exists | His old boards and saved logins (Oct 16 2026, m:10c70141) |
-| Thumbtack | Done | Vault sign-in; Partner API credentials (Oct 22) | Leads land whole in the CRM (Oct 15 2026, m:4b49912a) |
-| QuickBooks | Done (sign-in saved Oct 3 2026) | Vault sign-in | Books (Oct 26 2026, m:7e0d6ef1) |
-| GoHighLevel | Ended Nov 1 2026 | Cancelled (ends Nov 30), refund asked | Set up by the fired agency, never used (Nov 1 2026, m:1d5a3303) |
+### D. Phones, computers and the apps he installed
+| Item | How Tab gets in | Status | Added | Why |
+|---|---|---|---|---|
+| Galaxy S25+ (his phone) by AnyDesk | Remote control through the AnyDesk app he installed | Partly: works when he taps accept; unattended sign-in NOT in the vault | Nov 3 2026 | Manage phone storage on its own, monthly (Nov 3 2026, m:e5ce3ab4) |
+| AnyDesk unattended sign-in | Add-login link | Waiting on Zeke | Nov 3 2026 | Lets the monthly phone clean run without him |
+| SMS Backup & Restore (phone app) | Backs up texts and calls to zeke@ Drive | Partly (first file 12.9 GB, too big to read; text-only daily backup asked) | Oct 17 2026 | Text and call history audit |
+| DriveSync (phone app) | Syncs a folder to Drive | Waiting on Zeke (needs Camera folder, upload only) | Oct 18 2026 | Camera photos to Drive |
+| Office Mac mini (Riverside office) | Chrome Remote Desktop, PIN in the vault | Works | Oct 18 to 19 2026 | Full authority, anything including WhatsApp (Oct 27 2026, m:a9b6ad1e) |
+| Mac mini user sign-in (water2o account), current version | Vault sign-in | Works | Oct 19 2026 | Unlock and install on the Mac |
+| Chrome Remote Desktop PIN | Vault item | Works | Oct 19 2026 | Reach the Mac |
+| Find My (the Mac, under zeke@) | zeke@ profile; daily check | Works | Oct 19 2026 | Know the Mac is still in the office |
+| His WhatsApp Web on the office Mac | Remote control | Works (slow, about 1 minute per chat) | Oct 27 2026 | Read and act on WhatsApp when he asks |
+| Tab as a read-only linked device on his WhatsApp | Device link | Waiting on Zeke: logged out since Oct 30 2026 | Oct 27 2026 | Deal finder, AI Tips group, builder groups |
+| Handy dictation and the AI video editor on the Mac | Installed by Tab over remote control | Works | Nov 3 2026 | Faster dictation and reel editing |
+| Claude reel-editing setup on the Mac | Remote control | In progress (Nov 5 2026: reel instructor rules being added, m:74f12dbc) | Nov 2026 | Every reel he records follows the best rules |
+| Grok Bot desktop app (Mike) on the Mac | Remote control | Partly | Oct 2026 | Mike's seat on the team |
 
-### Marketing, listings and cold email
-| Access | Status | How Tab gets in | Why (Zeke's goal, date) |
-|---|---|---|---|
-| Instagram @homewater2o | Done | Connected app (Instagram API, Oct 16) plus vault sign-in (Oct 9) | Approved reels, insights, DMs (section 12) |
-| Google Business Profile | Done | Saved zeke@ browser profile | Posts, reviews, checks (section 4) |
-| LinkedIn (his profile and the company page) | Done Oct 26 2026 | Vault sign-in "LinkedIn, Zeke Vogel" and a saved browser profile | "Get full access to my LinkedIn" (Oct 15 2026, m:2d18c578) |
-| Facebook (manages the page "Water₂O - Home Filtration") | Blocked | Vault sign-in works; Facebook's two-step check stops it. He fixes it in Accounts Center, then replies "facebook fixed" | Page posts 3 a week |
-| Directory listings: Nextdoor, Yellow Pages, Cylex, MerchantCircle, Hotfrog, Manta, Foursquare | Done Oct 20 2026 | Vault sign-ins on zeke@water2o.com | One correct name, address and phone everywhere (Oct 20 2026, m:c5f4039d) |
-| Yelp | Blocked | The listing is claimed by an unknown owner; a reset needs his recovery step | Fix hours and reply to reviews |
-| Buildnotes | Waiting on Zeke | No sign-in on file | Builder leads and intros |
-| Cold email domain getwater2o.com: Instantly, the domain registrar and 3 sending mailboxes | In progress (warming since Oct 28 2026) | Vault sign-ins; campaigns only after warm-up and his OK | Volume outreach without risking zeke@ (Oct 27 2026, m:997f445f) |
-| UCFS dealer portal (customer financing) | Done Oct 21 2026 | Vault sign-in | Customer financing apps (Oct 21 2026) |
-| WaterGroup dealer training portal | Done Oct 30 2026 | Vault sign-in | Dealer training and product info |
-| Media company side project accounts (Professor Pip, Detective Drip) | Done Oct 19 2026 | Vault sign-ins, own Tab mail | Side project, never mixed with Water₂O |
+### E. CRM, phone lines and business tools
+| Item | How Tab gets in | Status | Added | Why |
+|---|---|---|---|---|
+| CRM app.water2o.com, Tab's agent login | Vault sign-in; scripts use its session | Works | Oct 3 2026 | Leads, texts, estimates, jobs, all day |
+| CRM owner login (Zeke's) | Vault sign-in | Works, admin steps only | Oct 19 2026 | Make agent logins and settings |
+| CRM read-only agent link (/agent) | Link, no login | Works | Nov 2 2026 | Any AI agent can read the CRM by link (m:4cb14308) |
+| Business line [phone removed] texts and calls | The CRM's texting through Tab's send gate | Works | Oct 2026 | All customer texting |
+| The texting carrier's own console under the CRM | No sign-in on file | Not on file | | Only needed for carrier settings |
+| Tab's calling line | Tab's own phone | Works | Oct 2026 | Calls to suppliers and businesses |
+| Retell (his voice AI account) | Vault sign-in + its code generator | Works | Oct 14 2026 | The AI receptionist |
+| Slack water2o.slack.com | Connected app (2 grants) as "Tabitha" + web session | Works | Oct 12 2026 | Agents, briefs, CRM push signals |
+| Slack app credentials: Pickle, agent-ack, Astra, app config token | Vault notes (5 items) | Saved | Oct 12 to 19 2026 | Run and fix the team's Slack apps |
+| GitHub zekewater2o (CRM, website and council repos) | Connected app | Works | Oct 19 2026 | Code changes to the CRM and site |
+| Lovable main account (zeke@) | Vault sign-in | Works (plan lowered Nov 3 2026) | Oct 7 2026 | Publish the website and CRM |
+| Lovable second account (chezy4) | Vault sign-in | Saved | Oct 7 2026 | Older projects |
+| Notion | Connected app | Partly (only template pages shared) | Oct 16 2026 | Considered for his Life OS |
+| Trello | Connected app | Partly | Oct 16 2026 | Old boards |
+| ZekeOS dashboard | Tab publishes it; sign-in in the vault | Works | Oct 27 2026 | His private dashboard and daily brief |
+| Thumbtack pro account | Vault sign-in + saved profile | Works | Oct 3 2026 | Leads land whole in the CRM |
+| Thumbtack Partner API, production | Vault keys | Saved | Oct 22 2026 | Leads by API |
+| Thumbtack Partner API, staging, and the staging portal | Vault keys and sign-in | Saved | Oct 22 2026 | Test the API hookup |
+| WaterGroup dealer training portal | Vault sign-in | Works | Oct 30 2026 | Dealer training and product info |
+| Instantly (cold email) | Vault sign-in | Works; warmup on since Oct 28 2026, no campaign yet | Oct 28 2026 | Cold email at scale after warmup |
+| Porkbun (getwater2o.com domain) | Vault sign-in | Works | Oct 28 2026 | Mail records for the cold email domain |
+| Calendly | His account | Works | Nov 3 2026 | People book only when both calendars are free |
+| tl;dv meeting recorder | Free bot on his zeke@ meetings | Works | Oct 29 2026 | Every meeting recorded and summarized |
+| GoHighLevel | Vault sign-in | Ended Nov 1 2026 (cancelled, refund asked) | Oct 7 2026 | Set up by the old agency, never used |
 
-### Money and household accounts (read first; every action needs his OK)
-| Access | Status | How Tab gets in | Why (Zeke's goal, date) |
-|---|---|---|---|
-| Amex, Chase, Wells Fargo, Bilt cards | Done Oct 2 to 3 2026 | Vault sign-ins; codes read from inboxes or 410 messages | "Manage all my credit cards... never let it sleep" (Oct 9 2026); charges into the books (Oct 14 2026, m:af413be8) |
-| Bank of America, Happen Bank, PayPal, Venmo | Done Oct 3 to 6 2026 | Vault sign-ins | Balances; pay only on his exact OK |
-| Spectrum, Verizon, Amazon, Bristol West (auto policy), health plan portal | Done Oct 2 to 9 2026 | Vault sign-ins | Bills, orders, renewals, reminders |
-| Saved cards for purchases | Done | Tab's wallet (default: main business Amex) | Approved purchases only |
+### F. Public profiles and listings
+| Item | How Tab gets in | Status | Added | Why |
+|---|---|---|---|---|
+| Google Business Profile | zeke@ saved profile | Works | Oct 20 2026 | Posts, reviews, hours |
+| LinkedIn (his profile and the Water₂O company page) | Vault sign-in "LinkedIn, Zeke Vogel" + saved profile; page admin | Works | Oct 26 2026 | Weekly posts (week 2 live) |
+| Instagram @homewater2o | Connected app + vault sign-in | Works | Oct 9 and 16 2026 | Reels, insights, DMs |
+| Facebook (manages the page "Water₂O - Home Filtration") | Vault sign-in | Blocked: Facebook's two-step check stops every sign-in | Oct 20 2026 | Page posts and reviews |
+| Yelp | No working sign-in; listing claimed under "Zeke V." | Waiting on Zeke: account recovery | Oct 20 2026 | Fix hours, answer reviews |
+| Yellow Pages (and Superpages) | Vault sign-in | Works, claimed Oct 20 2026 | Oct 20 2026 | Correct name, address, phone |
+| Nextdoor | Vault sign-in | Saved | Oct 20 2026 | Local recommendations |
+| Manta | Vault sign-in | Works, claimed | Oct 20 2026 | Listing |
+| MerchantCircle | Vault sign-in | Works, claimed | Oct 20 2026 | Listing |
+| Hotfrog | Vault sign-in | Works | Oct 20 2026 | Listing |
+| Cylex | Vault sign-in | Partly (verification pending) | Oct 20 2026 | Listing |
+| Foursquare | Vault sign-in | Saved; listing unclaimed | Oct 20 2026 | Feeds maps apps |
+| Trustpilot Business | Google sign-in with zeke@ | Works | Oct 20 2026 | Reviews |
+| Simi Valley Chamber member portal | Sign-in set by reset | Works | Oct 20 2026 | Member listing |
+| Thumbtack public profile | Thumbtack sign-in | Works | Oct 3 2026 | Profile and reviews |
+| Bing Places | No sign-in | Live and correct | | Maps listing |
+| Apple Maps / Apple Business Connect | Apple ID add-login link sent, never finished | Waiting on Zeke | Oct 2026 | Claim the listing |
+| BBB | No sign-in | Waiting on Zeke (wrong principal shown) | | Fix the profile |
+| Angi / HomeAdvisor | No sign-in; two reset emails never arrived | Waiting on Zeke (one call to Angi) | Oct 20 2026 | Old address shows |
+| TikTok @homewater2o | No sign-in | Waiting on Zeke | | Reels |
+| Buildnotes | No sign-in | Waiting on Zeke | | Builder leads |
+| Everything else (51 platforms tracked) | files/public-presence/platform-registry.md | Radar adds 10 a run | Oct 22 2026 | Name everywhere (Oct 21 2026, m:a26c6043) |
 
-### AI agents and AI tools
-| Access | Status | How Tab gets in | Why (Zeke's goal, date) |
-|---|---|---|---|
-| Ingrid (Instinct) | Done; access sharing Partly | Email and Slack | First choice for work she can carry; approved for a CRM login, his personal Gmail, Instagram, Google Business (Oct 29 2026, m:c37fd9cf) |
-| Cooper (Muse), Pickle (the CRM's Slack app), Claude (Slack app) | Done | Slack | The team (section 12); Claude needs him to link his Claude account in Slack once |
-| Mike (Grok Bot) and Cursor | Partly | His Cursor account on zeke@; Grok Bot desktop app on the office Mac, by remote control | Keep Mike reachable; pauses at the weekly limit (Oct 19 2026, m:4d4eccd2) |
-| ChatGPT (Business workspace) | Done | Vault sign-in and saved profile; ChatGPT Slack app since Oct 19. The projects "Water₂O Operations" and "Pablo AI Operations" carry this Master Bible MD File in their files, replaced with each new date | Council reviews, scheduled tasks; every ChatGPT chat in those projects knows the company (Nov 3 2026, m:9ece8925) |
-| Calendly | Done Nov 3 2026 | His account; zeke@ and chezy4 calendars both checked for conflicts, time zone Pacific | Mutual availability: people book only when both calendars are free (Nov 3 2026, T1431, T1438) |
-| Handy dictation and the AI video editor on the office Mac | Done Nov 3 2026 | Installed by Tab over Chrome Remote Desktop; Handy is Alt+Space; the video editor is Claude set up on the Mac per his reel, plus a copy on Tab's box (files/ai-video-editor/) | Talk instead of type; edit raw clips fast (Nov 3 2026, m:a635ae6e, m:01fec823) |
-| Gemini | Partly | Gemini web in the zeke@ profile ($0); the API key is free tier | A permanent seat needs his paid key (about $5), his call (Oct 18 2026) |
-| Retell (his own voice AI account) | Done Oct 14 2026 | Vault sign-in and its code generator | The AI receptionist plan (section 12) |
+### G. AI agents and AI tools
+| Item | How Tab gets in | Status | Added | Why |
+|---|---|---|---|---|
+| Ingrid (Instinct) | Email and Slack | Works; same-access sharing Partly | Oct 2026 | Inbox labeling, work she can carry |
+| Cooper (Muse) | Slack | Works | Oct 2026 | Content and marketing |
+| Pickle (the CRM's Slack app) | Slack + vault app credentials | Works | Oct 13 2026 | Train Pickle (Oct 13 2026) |
+| Claude (Slack app) | Slack | Works | Oct 2026 | Council member |
+| Mike (Grok Bot) and Cursor | Grok Bot on the Mac; Cursor on zeke@ | Partly | Oct 19 2026 | Council members, code |
+| ChatGPT (Business workspace) | Vault sign-in + saved profile; ChatGPT Slack app | Works | Oct 13 2026 | Master Bible lives in its projects "Water₂O Operations" and "Pablo AI Operations" |
+| Gemini | zeke@ profile (web) + free key | Partly | Oct 19 2026 | Council member at $0 |
+| AI council hub and Agent Hub | Tab publishes them | Works | Oct 27 2026 | One place every AI agent reads |
 
-### Discussed, half-done or not started
-- Etsy shop (side project): kit delivered and sign-in links sent Oct 18 to 21; ID, selfie and bank steps are his; not opened. (Oct 18 2026, m:b681db6b)
-- merch.com mailbox on Ikey's workspace: add-login link sent Oct 25, never saved. (T838)
-- Google Drive and Contacts app grant for chezy4: offered Oct 18, expired unopened; the saved browser profile covers it today. (memory/phone-access.md)
-- Gemini paid key and the Claude Slack account link: each one step only he can take. Mike's status comes from Ingrid's daily review (hers since Nov 1); never ask Zeke about a Mike or Grok Slack app. (memory/agent-reachability.md; memory/instinct-split.md)
-- Office Mac network heartbeat (alert if the Mac changes network): only after he approves installing it. (Oct 19 2026)
-- Equal access for every agent: done for Slack and shared docs; per-agent CRM logins and Ingrid's Gmail and Instagram access are approved but not finished. (Oct 14 2026, m:a8b70437; Oct 29 2026)
-- Private personal-group logins exist in the vault and are left out of this manual by the privacy rule.
+### H. Tab's own lines and mailboxes
+| Item | How Tab gets in | Status | Added | Why |
+|---|---|---|---|---|
+| Tab on WhatsApp (his main line to Tab) | Tab's own number | Works | Oct 1 2026 | Talk to Tab anywhere |
+| Tab on iMessage | Tab's own line | Works | Oct 2026 | Backup channel |
+| Tab mail: zeke.vogel@mail.tab.bot and 5 more addresses | Tab's own mailboxes | Works | Oct 2026 | Agents' daily briefs, service mail |
+
+### I. Personal and household accounts
+| Item | How Tab gets in | Status | Added | Why |
+|---|---|---|---|---|
+| Amazon | Vault sign-in | Saved | Oct 8 2026 | Orders he approves |
+| Spectrum | Vault sign-in | Saved | Oct 2 2026 | Internet bill |
+| Verizon | Vault sign-in | Saved | Oct 2 2026 | Phone bill |
+| Bristol West (auto policy) | Vault sign-in + saved profile, no code | Works (paid Oct 22 2026 on his OK) | Oct 2 2026 | Installments; next due Dec 3 2026 |
+| Health plan member portal | Vault sign-in | Saved | Oct 9 2026 | Bills and claims when he asks |
+| Two personal community-group portals | Vault sign-ins | Saved | Oct 19 2026 | Named only in appendix 17 (privacy rule) |
+| Side-project media accounts: Professor Pip (Instagram, TikTok) and Detective Drip (Instagram) | Vault sign-ins, own mailboxes | Works | Oct 19 2026 | His media side project |
+
+### J. Never finished, waiting on Zeke (ranked)
+1. AnyDesk unattended sign-in into the add-login link (the phone clean runs without him).
+2. Relink Tab to WhatsApp (logged out since Oct 30 2026): opens the deal finder and AI Tips scout again.
+3. Facebook two-step: one approval on his phone.
+4. Yelp account recovery (listing claimed by "Zeke V.").
+5. Apple ID add-login (Apple Business Connect claim).
+6. TikTok @homewater2o, Buildnotes, Angi and BBB sign-ins.
+7. eBay and Etsy add-login links were sent and never finished; say if they still matter.
 
 ## 14. Where everything lives
 
@@ -460,14 +560,13 @@ Until Zeke answers, follow the interim default shown and ask him with a draft be
 
 ## Changelog
 Older lines (v3.0 to v3.6, Oct 26 to Nov 2 2026, and the v1 and v2 history): appendix/13-open-questions-sources-history.md.
+- 2026-11-05 (Master Bible MD File, Zeke WhatsApp 11:04 to 11:26 AM PT): section 13 rebuilt from the real record, 55 rows to 115 (banks and each card by last 4, payments and books, Google, phones, computers and installed apps, CRM and business tools, public profiles, AI agents, Tab's own lines, household, and what is still waiting on him); section 13 exempt from the word cap. New laws and the codes added at the end of section 4. The Master Bible is now one web link for agents (master-bible.html and master-bible.md) and a Google Doc in Drive.
 - 2026-11-03 (Master Bible MD File, Zeke voice m:9ece8925): version numbers dropped, the file is named by date. Added Nov 3 lessons: hybrid vs twin-tank rebed (corrected), the one-system commercial RO specialty, voice lessons from the Sam Mollaei email Zeke sent himself and the Happy Ice email, a consolidated design section, AnyDesk unattended phone access (how and why), Calendly, Handy, Lovable plan, LeTip Networking Presentation, care plan objection answer, full-balance scheduling, permits, check-before-you-say-it rules, and every library link in five views. The AI Tips list, Meta ads points and saved tactic links moved to appendix 16. The v3.7 line moved to appendix 13.
 
 ## Companion documents and links
 One library holds this file and everything that does not fit in it: https://water2o-docs.sites.tab.bot/ (no login, hidden from search engines, readable by link). Send that link instead of separate attachments. Every document comes in five views so any person or AI agent can read it: PDF (add ?download=1 to download), Markdown (.md), plain text (.txt), web page (.html) and Word (.docx); AI agents start at https://water2o-docs.sites.tab.bot/llms.txt (the index), https://water2o-docs.sites.tab.bot/llms-full.txt (everything in one text file) or https://water2o-docs.sites.tab.bot/index.json, and https://water2o-docs.sites.tab.bot/water2o-docs-all.zip holds it all. New documents go into the same library. (Nov 3 2026, m:8d7412bf, m:9ece8925)
 - Master Bible MD File (this file, newest date): https://water2o-docs.sites.tab.bot/docs/master-bible.pdf · https://water2o-docs.sites.tab.bot/docs/master-bible.md · https://water2o-docs.sites.tab.bot/docs/master-bible.txt · https://water2o-docs.sites.tab.bot/docs/master-bible.html
-- Zeke Vogel: Working-Style Profile (who Zeke is, how he works, strengths, weak spots, goals): https://water2o-docs.sites.tab.bot/docs/zeke-profile.pdf · https://water2o-docs.sites.tab.bot/docs/zeke-profile.html · https://water2o-docs.sites.tab.bot/docs/zeke-profile.md · https://water2o-docs.sites.tab.bot/docs/zeke-profile.txt
-- The Dashboard and the CRM (his two screens and how an AI agent reads them): https://water2o-docs.sites.tab.bot/docs/dashboard-and-crm.pdf · https://water2o-docs.sites.tab.bot/docs/dashboard-and-crm.html · https://water2o-docs.sites.tab.bot/docs/dashboard-and-crm.md · https://water2o-docs.sites.tab.bot/docs/dashboard-and-crm.txt
-- AI Stack Roundtable (the AI council's research, each AI's full answer, what is decided and open): https://water2o-docs.sites.tab.bot/docs/ai-stack-roundtable.pdf · https://water2o-docs.sites.tab.bot/docs/ai-stack-roundtable.html · https://water2o-docs.sites.tab.bot/docs/ai-stack-roundtable.md · https://water2o-docs.sites.tab.bot/docs/ai-stack-roundtable.txt (one text file per AI, each listed in llms.txt)
+- Working-Style Profile, The Dashboard and the CRM, AI Stack Roundtable: taken off the public library Nov 3 2026 until Zeke decides; private copies stay in his Drive.
 - Networking Presentation (LeTip, Nov 5 2026): https://water2o.com/networking-presentation
 - Gold-standard design deck (version 4): https://water2o.com/altadena-rebuild
 - Private copies for Zeke (owner only): this file and its PDF in his Google Drive folder "Water₂O Operating Manual"; the Link Vault on his dashboard lists every page Tab built; the CRM Landing pages library lists this library as an internal page.
