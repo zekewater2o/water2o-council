@@ -1,9 +1,9 @@
-[Master document version 8, part 1 of 2]
+[Master document version 9, part 1 of 2]
 
-# MASTER BIBLE MD FILE 2026-11-05
+# MASTER BIBLE MD FILE 2026-11-06
 ### Zeke's Operating Manual for Water₂O: how the company works. Read this first.
 
-Master Bible MD File, updated Nov 5 2026. One web link for every AI agent: https://water2o-docs.sites.tab.bot/master-bible.html (raw Markdown: https://water2o-docs.sites.tab.bot/master-bible.md). All AI agents must read it, study it, know it by heart, and always apply its rules when taking on tasks, doing research, etc. The date in the name is the version: Zeke dropped version numbers on Nov 3 2026 ("I don't need the V3.7 naming anymore. Just use Master Bible MD File with the date it was updated", WhatsApp voice 8:03 PM PT, m:9ece8925). Owner: Zeke Vogel, Water₂O. A training manual since Zeke's order of Oct 26 2026 (m:644c34c8): "Everything should be known so I can literally give it to an employee and train them on exactly how the company works." Older versions and the v2.1 archive: appendix/13.
+Master Bible MD File, updated Nov 6 2026. One web link for every AI agent: https://water2o-docs.sites.tab.bot/master-bible.html (raw Markdown: https://water2o-docs.sites.tab.bot/master-bible.md). All AI agents must read it, study it, know it by heart, and always apply its rules when taking on tasks, doing research, etc. The date in the name is the version: Zeke dropped version numbers on Nov 3 2026 ("I don't need the V3.7 naming anymore. Just use Master Bible MD File with the date it was updated", WhatsApp voice 8:03 PM PT, m:9ece8925). Owner: Zeke Vogel, Water₂O. A training manual since Zeke's order of Oct 26 2026 (m:644c34c8): "Everything should be known so I can literally give it to an employee and train them on exactly how the company works." Older versions and the v2.1 archive: appendix/13.
 
 ## 1. Start here
 
@@ -153,7 +153,24 @@ The daily AI Tips scout adds verified, new tips here in one line each; the full 
 Dan Jordn, https://youtube.com/shorts/VkWc2OB-TaA (m:6f5f09e0). Apply every point: Meta ads land on our own water2o.com booking page (in-app storefront off); post whole install and water test walkthroughs as Instagram long-form; switch off every Advantage+ AI enhancement from Nov 20 2026 so every word stays Zeke-approved; fix water2o.com "revenue leaks" before any ad spend. The 5 points in full: appendix/16.
 
 ### Zeke's saved tactic links
-Every link he sends with a tactic gets one line here and full notes in appendix/16-saved-tactic-links.md (the complete list, newest first, with what each applies to), so none falls through the cracks. (Oct 29 2026, m:6f5f09e0) Newest: Meta ads changes (block above); four AIs on one $20 plan (ad claim, unverified); Claude edits all videos (Zeke's Bible link above).
+Every link he sends with a tactic gets one line here and full notes in appendix/16-saved-tactic-links.md (the complete list, newest first, with what each applies to), so none falls through the cracks. (Oct 29 2026, m:6f5f09e0) Newest: the Nov 5 and 6 2026 batch of 10 reels (Dream AI stack, below); Meta ads changes (block above); four AIs on one $20 plan (ad claim, unverified); Claude edits all videos (Zeke's Bible link above).
+
+### Dream AI stack: tools from his Instagram links (Nov 6 2026)
+Zeke sent 10 Instagram links and a DeepInfra screenshot on Nov 5 and 6 2026 and asked that each one land here, in the section it fits (voice 12:52 AM Nov 6, m:e1f4866d). Every repo was checked on GitHub and every price on its live page on Nov 6 2026. Full plan: files/ig-savings/PLAN.md; per-link detail: files/ig-links/2026-11-05.md and appendix/16.
+- What the stack is now ($0 adds): Handy on the Mac mini replaces Wispr Flow for dictation (cjpais/Handy, MIT, Option+Space; OpenWhispr is the backup); Kokoro-82M for English voiceover (free locally, $0.99 per 1M characters hosted on DeepInfra vs about $80 per 1M on ElevenLabs; no voice cloning, no Hebrew); Claude on the Mac stays the video editor with the free editing tools in section 4. Tab already reads gated reels, Reddit, X and YouTube with its own browser and local Whisper, so "give your agent eyes" repos are not needed for Tab.
+- Savings: $616.70 a month ($7,400 a year) in total. $552 of it is already locked in this week (Lovable down to $25 from $480 from Nov 29, HighLevel cancelled from Nov 30). $64.70 a month is new and waits on Zeke's one-word replies: "cancel Wispr" (after a week on Handy), "cancel OpenAI credits", "cancel Google One AI", "cancel Aireel", "cancel Higgsfield". Keep: Claude Max, ChatGPT Business, Cursor, Instantly, Twilio, Google Workspace. Zeke decides: X Premium, BBB. Table with sources: files/ig-savings/inventory.md.
+- The links, one line each (date he sent it, verdict, why):
+  1. De34oHhv8Ne, Rui Fu, legal checklist for vibe-coded apps (sent Nov 5). APPLIED: drove the compliance audit in section 4.
+  2. jayantcreates.ai, Jayant, Claude for Instagram growth (Nov 5). NEEDS ZEKE: comment "WATER" to auto-DM the free water test link; customer-facing words, reply "comment DM".
+  3. DeON0MOB5oi, Charles Zheng, website-to-API repo (Nov 5). SKIP: Tab already calls site backends; automating LinkedIn or Reddit breaks their terms.
+  4. p/DelZub4u74G, Arshman Khalid, 12 repos for a content factory (Nov 5). APPLIED: all 12 verified; the shorts generator and hyperframes joined the editing stack.
+  5. DclpFAJiyuv, Tunde Alao, Claude Watch (Nov 5). APPLY ($0): Tab already watches video; give Claude on the Mac the same skill.
+  6. Dd6izTYiln1, Tunde Alao, Agent Reach (Panniantong/Agent-Reach, MIT) (Nov 6). SKIP for Tab: it already reads these sites; optional on the Mac with no-login channels only, never his main logins.
+  7. De1zlGniBQp, Tunde Alao, VoiceStudio local voice cloning (Nov 6). WATCH: only if voice spend grows, only with Zeke's own voice.
+  8. De2cNnigEis, Scott Smith, faceless YouTube income claims (Nov 6). SKIP: hype.
+  9. DfV6d9gPPIU, @raycfu, "repos that feel illegal" (Nov 6). SKIP: license bypass is a lawsuit and malware risk.
+  10. DezCrecDDSm, @think_macro_, 9 free twins of paid apps (Nov 6). WATCH: OpenWhispr as Handy's backup; Chatwoot (one inbox) and Cap (Loom twin) if needed.
+  11. DeepInfra screenshot, Kokoro-82M (Nov 6). APPLIED: installed and tested.
 
 ## 4. Rules and approvals
 
@@ -174,6 +191,7 @@ Read this before you contact anyone or spend anything. Rules at the top outrank 
 
 - **Only Claude (Slack U0CA46HQ2GY) edits videos for Water₂O. Tab and other agents route all video editing jobs to Claude.** That covers every cut, caption, text overlay, zoom, recut and render for reels, ads, shorts and social videos. Zeke's words: "It should be doing all the editing, not Tab, not anybody else, just Claude." (WhatsApp 11:11 PM Oct 27 2026, m:8e8a9981)
 - How to route: post a job card in Slack #agents tagging Claude (what the video is for, the raw footage link, the goal, the deadline, the reel rules in files/content/reel-lab/RULES.md) and add it to the editing queue in memory/video-editing-owner.md. Zeke runs the edit in his Claude Project "Water₂O Video Editor" (instructions: files/ai-bible/claude-video-editor-instructions.md).
+- Free editing tools for Claude on the Mac (Nov 6 2026, files/ig-savings/editing.md): auto-editor (cuts silences), whisper.cpp captions, AI-Youtube-Shorts-Generator (a site-visit video into 3 to 5 shorts, an Opus Clip twin), hyperframes (branded stat and offer cards), Kokoro voiceover, a video-watching skill; DaVinci Resolve free if Zeke wants to touch an edit. No paid editor (CapCut Pro, Descript, Opus Clip) is needed.
 - Not editing, so it stays where it is: posting a reel Zeke already approved, reading insights (reel lab), filming plans and scripts, and sharing a raw walkthrough link with an installer.
 
 ### Outward words: Zeke OKs the exact wording
@@ -275,6 +293,8 @@ Read this before you contact anyone or spend anything. Rules at the top outrank 
 - Each gap and its fix (for example the Oct 27 North Lake video that sat unseen in his Drive for 6 hours, which created Rule 4): files/departments/gaps-and-fixes.md and appendix/03. (m:e66400a5)
 
 ### New laws since Nov 3 2026 (said once here; newest wins)
+- Every Instagram link or tool screenshot he sends gets the full treatment the same day: read all of it (caption, audio, on-screen text, every slide, the named repo), verify every repo and price live, judge it against what we already have, apply it if it is $0 and nothing customer-facing, otherwise one-word approval, and add one line to the right section of this Bible. None slips through. (Nov 6 2026, m:5e1ae9aa and m:e1f4866d; memory/ai-tips-agent.md)
+- Keep this MD file current: every day brings something new, so whatever is discussed goes into the Bible and a new dated MD goes out. (Nov 6 2026, voice m:e1f4866d)
 - One link for agents: the whole Master Bible is ONE web page any AI agent can open and read with no login: https://water2o-docs.sites.tab.bot/master-bible.html, raw Markdown at https://water2o-docs.sites.tab.bot/master-bible.md. All AI agents must read it, study it, know it by heart, and always apply its rules when taking on tasks, doing research, etc. The Google Doc "Master Bible MD File YYYY-MM-DD" in his Drive is the same text. (Nov 5 2026, WhatsApp 11:19 AM PT)
 - Access list is complete or it is wrong: every account, card, device, app and profile Tab can reach goes in section 13, one row each, names and last 4 digits only. (Nov 5 2026, WhatsApp 11:23 AM PT)
 - Check the CRM job scope FIRST before answering or asking anything about a job's specs. (Nov 5 2026, voice 9:53 AM PT)
@@ -290,6 +310,16 @@ Read this before you contact anyone or spend anything. Rules at the top outrank 
 - Designers and architects get their own pitch, never the builder "water sub" line. (Nov 4 2026, m:505b7d74)
 - Sound human, with context: continue the thread a person is already in; first text from the business line to someone who knows him: "Hey [Name], it's Zeke, this is my work cell." (Nov 4 2026, m:44fc49ee)
 - His name in any self-introduction is only "Zeke" or "Chezy", never any other spelling. Enforced in code. (Nov 4 2026, m:003df66c)
+
+### Compliance and liability (Nov 6 2026 audit)
+Audit of water2o.com, the CRM and our outreach against Rui Fu's legal checklist reel (De34oHhv8Ne), read Nov 6 2026. Nothing was changed; each fix waits on Zeke's one word. Ranked by fine or lawsuit risk:
+1. HIGH: session recording (Microsoft Clarity) on water2o.com with no consent and not in the privacy policy (California CIPA, $5,000 per violation). Reply "fix clarity".
+2. HIGH: cold texts to people who never opted in, on a campaign registered as customer care (TCPA $500 to $1,500 per text; the 310 line can be suspended). Rule from now: cold outreach by email only; text only people who replied or opted in. Reply "fix texts".
+3. HIGH per email: cold emails missing the postal address and an opt-out line, and one sender not applying the suppress list (CAN-SPAM up to $53,088 per email). Reply "fix footer".
+4. MEDIUM: the Extra Care Plan auto-renews through the same click that approves an estimate (California Automatic Renewal Law). Fix: separate unchecked box, acknowledgment email with a cancel link, yearly reminder. Reply "fix renew".
+5. MEDIUM-LOW: privacy policy does not name the analytics tools, no Global Privacy Control line, no updated date (CalOPPA). Reply "fix privacy".
+6. LOW: Google Fonts hotlinked (an EU rule). Reply "fix fonts".
+Fine as is: age (terms say 18+), CCPA (Water2o LLC is under every threshold), the website SMS consent box, A2P for customer texts, STOP handling and quiet hours. Both cold senders are paused until the fixes land. Never use pirated or license-bypass software (lesson from DfV6d9gPPIU). Full audit: files/ig-savings/compliance.md; replacement text: compliance-drafts.md.
 
 ### The codes (how Tab and Zeke talk)
 - Every bubble Tab sends him starts with the next T-code (T1732 is next as of Nov 5 2026) so he can answer "T123 yes" or reply to it. New topic, new number; a follow-up on the same topic adds a letter (T502B). Drafts carry a code; the code never goes into a client's text. Log: memory/chezy-message-codes.md. (Oct 16 2026, m:bd522def)
@@ -566,43 +596,3 @@ Every quote is one draft estimate in the CRM, priced from true cost up to the ma
 - Every lead gets a correct quote within 24 hours of the visit. Target 100%. Follow up every sent quote until it is won or dead. (Oct 21 2026, sales-quotes PLAYBOOK)
 - Why: Kyle C.'s quote sat as a draft two days and he had to ask. Zeke: "push me like a drill sergeant until I get the quote out." (Oct 20 2026, m:d3bcdd77)
 - The quote sergeant (quote-sergeant/scan.py) scans at 9 AM and 3 PM. The watchdog nags each unsent quote at 24, 48 and 72 hours, then daily, 9 AM to 8 PM, never on Shabbat. Quiet sent quotes older than 14 days get a follow-up draft offered. Zeke hears only what changed. (memory/quote-sergeant.md)
-- One status per quote, read from the CRM before you say it: a shared link counts as sent, and "opened" comes from the opener field. Never call a quote unsent and opened in the same message. (Oct 30 2026, m:31d0a825)
-
-## 7. Sales process
-
-This is the path from a new lead to a finished install, in the order you run it. Every outward message is a draft for Zeke's OK unless a standing OK covers it (section 4). Full detail, partner pitches by trade and framework notes: appendix/06-sales.md.
-
-### Principles
-- Availability is the #1 rule of Water₂O (section 4, Rule 2). (Oct 19 2026, m:811c37d3)
-- The free water test is the differentiator, not just the call to action: prevention, with free tests through the whole relationship so the system lasts. (Oct 8 2026, memory/water2o-outreach.md)
-- The customer is always right; on code, state the law. Permits: Los Angeles code lists a plumbing permit for water treatment equipment, but in practice it is rarely if ever pulled for these installs (Zeke and Jason never have). If a customer wants one, we take care of it: express permit online, one short inspection, city fees about $300 passed through at cost, and it may delay the install date. (Nov 3 2026, m:9e9313b0; zeke@ to Sam Mollaei; replaces "accommodate with a signed liability waiver", Oct 12 2026)
-- Real urgency is fine (high demand, grouped neighborhood scheduling). Never invent a false fact to a customer. (Oct 12 2026, memory/bible-conflicts.md)
-- Never ask a customer to lend a tool: "totally unprofessional." (Oct 21 2026, m:4ea7f3c0)
-
-### Step 1: Lead comes in
-- A project can have several sources (website form AND ChatGPT); record every one that applies. (Oct 27 2026, m:82bb5e83)
-- Every lead becomes many, with no cap: research where each company appears (registries, chambers, forums, associations, competitors), find lookalikes and reach out naming the true source, without being asked. The only limit: never get zeke@ flagged as spam, so volume beyond safe limits goes through the warmed secondary domains. (Oct 27 2026, m:c74bb228, m:ad192aaf; memory/lead-multiplier-rule.md)
-- Builder leads that go to several companies at once (Mirage Home Builders) are a speed race: answer first. (Oct 27 2026, m:d2774367)
-- Sources: Thumbtack, Yelp, Nextdoor, Google and the website, ChatGPT, referrals (personal network, BNI, LeTip, Chazak), builder partners (JJP Construction, David E. Builders), the lead agency, door knocking (canvas). The source sets the margin (section 6). (memory/chezy-message-codes.md; Oct 20 2026, memory/quote-style.md)
-- Thumbtack: we do water treatment only. Decline anything else (regulators, water heaters, general plumbing) with "Job type doesn't match my preferences" and request a refund. Do not change profile preferences. (Oct 25 2026, m:594f44eb)
-- Creating a CRM lead starts the Speed to Lead automation on that contact, so creating a lead is an outward action. Never create one for a partner, builder, Israeli-tagged contact or bulk import unless needed. (Oct 18 2026, Bible rule)
-- Missed call: code texts unknown real callers "Hi, we saw your missed call. This is Water₂O. How can we help?" and known ones "Hey <Name>, saw I missed your call. How can I help?" Rules: section 12, Phone and texting. (replaces the Oct 20 wording, Oct 30 2026, m:86c78069)
-
-### Step 2: First contact
-- Read everything the customer already sent (messages, photos, models) first. Never ask for what they gave you, and never ask for a visit when usable photos are enough. (Bible 7)
-- Study the lead like a 35-year water expert. Ask 1 to 2 questions, not a form. Ask for a photo only if that expert would. (Oct 12 2026, memory/bible-conflicts.md)
-- For a softener: ask city, number of people, number of bathrooms; then offer the free in-home water test. Don't lead with technical detail (resin, GPD, valves) until they engage. (Bible 7)
-- Texts go from the CRM 310 line, never from Zeke's phone. The first text to anyone already in his contacts opens "Hey, it's Zeke, this is my work line." To someone already in conversation, never say "it's Water₂O" or "it's Zeke": just get to the point. (Oct 8 2026, m:d9865d84; Oct 21 2026; Oct 26 2026, m:091987fc)
-- Never text a customer before the email the text refers to. Hold any automated or scheduled text if the customer has an unanswered message. (Oct 19 to 20 2026, m:fe283843)
-- Israeli contacts: fewest words, least pitching, far fewer follow-ups, after deep research on their industry. (Oct 16 2026, m:2fd95e86; Oct 18 2026, m:b6b5c584)
-
-### Step 3: Free water test and site visit
-- Zeke (or the tech) visits, tests the water and films the plumbing, drain and electrical. The phone uploads photos and video automatically to the zeke@ Drive folder "Tab Camera Inbox". (memory/after-appointment-system.md)
-- After every appointment the scope, estimate and drafts build themselves: about 2 minutes after the booked end a VISIT CHECK pulls the media; one worker fills the job scope, note and draft estimate and drafts customer and installer texts for Zeke's OK, 30 to 45 minutes after the visit. Missing info goes to Zeke in one message, never into the scope. (Oct 19 2026; files/site-visit-pipeline/PIPELINE.md)
-- If no media lands within 2 hours, Zeke gets one line: "did you take photos? check Autosync". (PIPELINE.md)
-- The scope follows the style rules in section 8.
-
-### Step 4: Installer price
-- When Zeke says "send Jason", the approved text goes to Jason Sok (primary installer) through the CRM. No reply in 24 hours: a follow-up text. No reply at 36 hours: the scope goes to the backup installer and Zeke is told. A Jason reply cancels both. (Oct 19 2026, memory/after-appointment-system.md)
-
-### Step 5: Estimate

@@ -1,7 +1,7 @@
-# MASTER BIBLE MD FILE 2026-11-05
+# MASTER BIBLE MD FILE 2026-11-06
 ### Zeke's Operating Manual for Water₂O: how the company works. Read this first.
 
-Master Bible MD File, updated Nov 5 2026. One web link for every AI agent: https://water2o-docs.sites.tab.bot/master-bible.html (raw Markdown: https://water2o-docs.sites.tab.bot/master-bible.md). All AI agents must read it, study it, know it by heart, and always apply its rules when taking on tasks, doing research, etc. The date in the name is the version: Zeke dropped version numbers on Nov 3 2026 ("I don't need the V3.7 naming anymore. Just use Master Bible MD File with the date it was updated", WhatsApp voice 8:03 PM PT, m:9ece8925). Owner: Zeke Vogel, Water₂O. A training manual since Zeke's order of Oct 26 2026 (m:644c34c8): "Everything should be known so I can literally give it to an employee and train them on exactly how the company works." Older versions and the v2.1 archive: appendix/13.
+Master Bible MD File, updated Nov 6 2026. One web link for every AI agent: https://water2o-docs.sites.tab.bot/master-bible.html (raw Markdown: https://water2o-docs.sites.tab.bot/master-bible.md). All AI agents must read it, study it, know it by heart, and always apply its rules when taking on tasks, doing research, etc. The date in the name is the version: Zeke dropped version numbers on Nov 3 2026 ("I don't need the V3.7 naming anymore. Just use Master Bible MD File with the date it was updated", WhatsApp voice 8:03 PM PT, m:9ece8925). Owner: Zeke Vogel, Water₂O. A training manual since Zeke's order of Oct 26 2026 (m:644c34c8): "Everything should be known so I can literally give it to an employee and train them on exactly how the company works." Older versions and the v2.1 archive: appendix/13.
 
 ## 1. Start here
 
@@ -151,7 +151,24 @@ The daily AI Tips scout adds verified, new tips here in one line each; the full 
 Dan Jordn, https://youtube.com/shorts/VkWc2OB-TaA (m:6f5f09e0). Apply every point: Meta ads land on our own water2o.com booking page (in-app storefront off); post whole install and water test walkthroughs as Instagram long-form; switch off every Advantage+ AI enhancement from Nov 20 2026 so every word stays Zeke-approved; fix water2o.com "revenue leaks" before any ad spend. The 5 points in full: appendix/16.
 
 ### Zeke's saved tactic links
-Every link he sends with a tactic gets one line here and full notes in appendix/16-saved-tactic-links.md (the complete list, newest first, with what each applies to), so none falls through the cracks. (Oct 29 2026, m:6f5f09e0) Newest: Meta ads changes (block above); four AIs on one $20 plan (ad claim, unverified); Claude edits all videos (Zeke's Bible link above).
+Every link he sends with a tactic gets one line here and full notes in appendix/16-saved-tactic-links.md (the complete list, newest first, with what each applies to), so none falls through the cracks. (Oct 29 2026, m:6f5f09e0) Newest: the Nov 5 and 6 2026 batch of 10 reels (Dream AI stack, below); Meta ads changes (block above); four AIs on one $20 plan (ad claim, unverified); Claude edits all videos (Zeke's Bible link above).
+
+### Dream AI stack: tools from his Instagram links (Nov 6 2026)
+Zeke sent 10 Instagram links and a DeepInfra screenshot on Nov 5 and 6 2026 and asked that each one land here, in the section it fits (voice 12:52 AM Nov 6, m:e1f4866d). Every repo was checked on GitHub and every price on its live page on Nov 6 2026. Full plan: files/ig-savings/PLAN.md; per-link detail: files/ig-links/2026-11-05.md and appendix/16.
+- What the stack is now ($0 adds): Handy on the Mac mini replaces Wispr Flow for dictation (cjpais/Handy, MIT, Option+Space; OpenWhispr is the backup); Kokoro-82M for English voiceover (free locally, $0.99 per 1M characters hosted on DeepInfra vs about $80 per 1M on ElevenLabs; no voice cloning, no Hebrew); Claude on the Mac stays the video editor with the free editing tools in section 4. Tab already reads gated reels, Reddit, X and YouTube with its own browser and local Whisper, so "give your agent eyes" repos are not needed for Tab.
+- Savings: $616.70 a month ($7,400 a year) in total. $552 of it is already locked in this week (Lovable down to $25 from $480 from Nov 29, HighLevel cancelled from Nov 30). $64.70 a month is new and waits on Zeke's one-word replies: "cancel Wispr" (after a week on Handy), "cancel OpenAI credits", "cancel Google One AI", "cancel Aireel", "cancel Higgsfield". Keep: Claude Max, ChatGPT Business, Cursor, Instantly, Twilio, Google Workspace. Zeke decides: X Premium, BBB. Table with sources: files/ig-savings/inventory.md.
+- The links, one line each (date he sent it, verdict, why):
+  1. De34oHhv8Ne, Rui Fu, legal checklist for vibe-coded apps (sent Nov 5). APPLIED: drove the compliance audit in section 4.
+  2. jayantcreates.ai, Jayant, Claude for Instagram growth (Nov 5). NEEDS ZEKE: comment "WATER" to auto-DM the free water test link; customer-facing words, reply "comment DM".
+  3. DeON0MOB5oi, Charles Zheng, website-to-API repo (Nov 5). SKIP: Tab already calls site backends; automating LinkedIn or Reddit breaks their terms.
+  4. p/DelZub4u74G, Arshman Khalid, 12 repos for a content factory (Nov 5). APPLIED: all 12 verified; the shorts generator and hyperframes joined the editing stack.
+  5. DclpFAJiyuv, Tunde Alao, Claude Watch (Nov 5). APPLY ($0): Tab already watches video; give Claude on the Mac the same skill.
+  6. Dd6izTYiln1, Tunde Alao, Agent Reach (Panniantong/Agent-Reach, MIT) (Nov 6). SKIP for Tab: it already reads these sites; optional on the Mac with no-login channels only, never his main logins.
+  7. De1zlGniBQp, Tunde Alao, VoiceStudio local voice cloning (Nov 6). WATCH: only if voice spend grows, only with Zeke's own voice.
+  8. De2cNnigEis, Scott Smith, faceless YouTube income claims (Nov 6). SKIP: hype.
+  9. DfV6d9gPPIU, @raycfu, "repos that feel illegal" (Nov 6). SKIP: license bypass is a lawsuit and malware risk.
+  10. DezCrecDDSm, @think_macro_, 9 free twins of paid apps (Nov 6). WATCH: OpenWhispr as Handy's backup; Chatwoot (one inbox) and Cap (Loom twin) if needed.
+  11. DeepInfra screenshot, Kokoro-82M (Nov 6). APPLIED: installed and tested.
 
 ## 4. Rules and approvals
 
@@ -172,6 +189,7 @@ Read this before you contact anyone or spend anything. Rules at the top outrank 
 
 - **Only Claude (Slack U0CA46HQ2GY) edits videos for Water₂O. Tab and other agents route all video editing jobs to Claude.** That covers every cut, caption, text overlay, zoom, recut and render for reels, ads, shorts and social videos. Zeke's words: "It should be doing all the editing, not Tab, not anybody else, just Claude." (WhatsApp 11:11 PM Oct 27 2026, m:8e8a9981)
 - How to route: post a job card in Slack #agents tagging Claude (what the video is for, the raw footage link, the goal, the deadline, the reel rules in files/content/reel-lab/RULES.md) and add it to the editing queue in memory/video-editing-owner.md. Zeke runs the edit in his Claude Project "Water₂O Video Editor" (instructions: files/ai-bible/claude-video-editor-instructions.md).
+- Free editing tools for Claude on the Mac (Nov 6 2026, files/ig-savings/editing.md): auto-editor (cuts silences), whisper.cpp captions, AI-Youtube-Shorts-Generator (a site-visit video into 3 to 5 shorts, an Opus Clip twin), hyperframes (branded stat and offer cards), Kokoro voiceover, a video-watching skill; DaVinci Resolve free if Zeke wants to touch an edit. No paid editor (CapCut Pro, Descript, Opus Clip) is needed.
 - Not editing, so it stays where it is: posting a reel Zeke already approved, reading insights (reel lab), filming plans and scripts, and sharing a raw walkthrough link with an installer.
 
 ### Outward words: Zeke OKs the exact wording
@@ -273,6 +291,8 @@ Read this before you contact anyone or spend anything. Rules at the top outrank 
 - Each gap and its fix (for example the Oct 27 North Lake video that sat unseen in his Drive for 6 hours, which created Rule 4): files/departments/gaps-and-fixes.md and appendix/03. (m:e66400a5)
 
 ### New laws since Nov 3 2026 (said once here; newest wins)
+- Every Instagram link or tool screenshot he sends gets the full treatment the same day: read all of it (caption, audio, on-screen text, every slide, the named repo), verify every repo and price live, judge it against what we already have, apply it if it is $0 and nothing customer-facing, otherwise one-word approval, and add one line to the right section of this Bible. None slips through. (Nov 6 2026, m:5e1ae9aa and m:e1f4866d; memory/ai-tips-agent.md)
+- Keep this MD file current: every day brings something new, so whatever is discussed goes into the Bible and a new dated MD goes out. (Nov 6 2026, voice m:e1f4866d)
 - One link for agents: the whole Master Bible is ONE web page any AI agent can open and read with no login: https://water2o-docs.sites.tab.bot/master-bible.html, raw Markdown at https://water2o-docs.sites.tab.bot/master-bible.md. All AI agents must read it, study it, know it by heart, and always apply its rules when taking on tasks, doing research, etc. The Google Doc "Master Bible MD File YYYY-MM-DD" in his Drive is the same text. (Nov 5 2026, WhatsApp 11:19 AM PT)
 - Access list is complete or it is wrong: every account, card, device, app and profile Tab can reach goes in section 13, one row each, names and last 4 digits only. (Nov 5 2026, WhatsApp 11:23 AM PT)
 - Check the CRM job scope FIRST before answering or asking anything about a job's specs. (Nov 5 2026, voice 9:53 AM PT)
@@ -288,6 +308,16 @@ Read this before you contact anyone or spend anything. Rules at the top outrank 
 - Designers and architects get their own pitch, never the builder "water sub" line. (Nov 4 2026, m:505b7d74)
 - Sound human, with context: continue the thread a person is already in; first text from the business line to someone who knows him: "Hey [Name], it's Zeke, this is my work cell." (Nov 4 2026, m:44fc49ee)
 - His name in any self-introduction is only "Zeke" or "Chezy", never any other spelling. Enforced in code. (Nov 4 2026, m:003df66c)
+
+### Compliance and liability (Nov 6 2026 audit)
+Audit of water2o.com, the CRM and our outreach against Rui Fu's legal checklist reel (De34oHhv8Ne), read Nov 6 2026. Nothing was changed; each fix waits on Zeke's one word. Ranked by fine or lawsuit risk:
+1. HIGH: session recording (Microsoft Clarity) on water2o.com with no consent and not in the privacy policy (California CIPA, $5,000 per violation). Reply "fix clarity".
+2. HIGH: cold texts to people who never opted in, on a campaign registered as customer care (TCPA $500 to $1,500 per text; the 310 line can be suspended). Rule from now: cold outreach by email only; text only people who replied or opted in. Reply "fix texts".
+3. HIGH per email: cold emails missing the postal address and an opt-out line, and one sender not applying the suppress list (CAN-SPAM up to $53,088 per email). Reply "fix footer".
+4. MEDIUM: the Extra Care Plan auto-renews through the same click that approves an estimate (California Automatic Renewal Law). Fix: separate unchecked box, acknowledgment email with a cancel link, yearly reminder. Reply "fix renew".
+5. MEDIUM-LOW: privacy policy does not name the analytics tools, no Global Privacy Control line, no updated date (CalOPPA). Reply "fix privacy".
+6. LOW: Google Fonts hotlinked (an EU rule). Reply "fix fonts".
+Fine as is: age (terms say 18+), CCPA (Water2o LLC is under every threshold), the website SMS consent box, A2P for customer texts, STOP handling and quiet hours. Both cold senders are paused until the fixes land. Never use pirated or license-bypass software (lesson from DfV6d9gPPIU). Full audit: files/ig-savings/compliance.md; replacement text: compliance-drafts.md.
 
 ### The codes (how Tab and Zeke talk)
 - Every bubble Tab sends him starts with the next T-code (T1732 is next as of Nov 5 2026) so he can answer "T123 yes" or reply to it. New topic, new number; a follow-up on the same topic adds a letter (T502B). Drafts carry a code; the code never goes into a client's text. Log: memory/chezy-message-codes.md. (Oct 16 2026, m:bd522def)
@@ -1164,6 +1194,7 @@ Until Zeke answers, follow the interim default shown and ask him with a draft be
 
 ## Changelog
 Older lines (v3.0 to v3.6, Oct 26 to Nov 2 2026, and the v1 and v2 history): appendix/13-open-questions-sources-history.md.
+- 2026-11-06 (Master Bible MD File, Zeke WhatsApp 12:51 AM and voice 12:52 AM, m:5e1ae9aa, m:e1f4866d): his 10 Instagram links and the Kokoro screenshot folded in. New in section 3: Dream AI stack (one line per link with verdict, the $616.70 a month savings summary). New in section 4: two laws (every IG link gets the full treatment; keep the MD current daily), Compliance and liability (Nov 6 2026 audit, 6 ranked risks with reply words), and the free editing tools for Claude.
 - 2026-11-05 (Master Bible MD File, Zeke WhatsApp 11:04 to 11:26 AM PT): section 13 rebuilt from the real record, 55 rows to 115 (banks and each card by last 4, payments and books, Google, phones, computers and installed apps, CRM and business tools, public profiles, AI agents, Tab's own lines, household, and what is still waiting on him); section 13 exempt from the word cap. New laws and the codes added at the end of section 4. The Master Bible is now one web link for agents (master-bible.html and master-bible.md) and a Google Doc in Drive.
 - 2026-11-03 (Master Bible MD File, Zeke voice m:9ece8925): version numbers dropped, the file is named by date. Added Nov 3 lessons: hybrid vs twin-tank rebed (corrected), the one-system commercial RO specialty, voice lessons from the Sam Mollaei email Zeke sent himself and the Happy Ice email, a consolidated design section, AnyDesk unattended phone access (how and why), Calendly, Handy, Lovable plan, LeTip Networking Presentation, care plan objection answer, full-balance scheduling, permits, check-before-you-say-it rules, and every library link in five views. The AI Tips list, Meta ads points and saved tactic links moved to appendix 16. The v3.7 line moved to appendix 13.
 

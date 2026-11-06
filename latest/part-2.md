@@ -1,5 +1,45 @@
-[Master document version 8, part 2 of 2]
+[Master document version 9, part 2 of 2]
 
+- One status per quote, read from the CRM before you say it: a shared link counts as sent, and "opened" comes from the opener field. Never call a quote unsent and opened in the same message. (Oct 30 2026, m:31d0a825)
+
+## 7. Sales process
+
+This is the path from a new lead to a finished install, in the order you run it. Every outward message is a draft for Zeke's OK unless a standing OK covers it (section 4). Full detail, partner pitches by trade and framework notes: appendix/06-sales.md.
+
+### Principles
+- Availability is the #1 rule of Water₂O (section 4, Rule 2). (Oct 19 2026, m:811c37d3)
+- The free water test is the differentiator, not just the call to action: prevention, with free tests through the whole relationship so the system lasts. (Oct 8 2026, memory/water2o-outreach.md)
+- The customer is always right; on code, state the law. Permits: Los Angeles code lists a plumbing permit for water treatment equipment, but in practice it is rarely if ever pulled for these installs (Zeke and Jason never have). If a customer wants one, we take care of it: express permit online, one short inspection, city fees about $300 passed through at cost, and it may delay the install date. (Nov 3 2026, m:9e9313b0; zeke@ to Sam Mollaei; replaces "accommodate with a signed liability waiver", Oct 12 2026)
+- Real urgency is fine (high demand, grouped neighborhood scheduling). Never invent a false fact to a customer. (Oct 12 2026, memory/bible-conflicts.md)
+- Never ask a customer to lend a tool: "totally unprofessional." (Oct 21 2026, m:4ea7f3c0)
+
+### Step 1: Lead comes in
+- A project can have several sources (website form AND ChatGPT); record every one that applies. (Oct 27 2026, m:82bb5e83)
+- Every lead becomes many, with no cap: research where each company appears (registries, chambers, forums, associations, competitors), find lookalikes and reach out naming the true source, without being asked. The only limit: never get zeke@ flagged as spam, so volume beyond safe limits goes through the warmed secondary domains. (Oct 27 2026, m:c74bb228, m:ad192aaf; memory/lead-multiplier-rule.md)
+- Builder leads that go to several companies at once (Mirage Home Builders) are a speed race: answer first. (Oct 27 2026, m:d2774367)
+- Sources: Thumbtack, Yelp, Nextdoor, Google and the website, ChatGPT, referrals (personal network, BNI, LeTip, Chazak), builder partners (JJP Construction, David E. Builders), the lead agency, door knocking (canvas). The source sets the margin (section 6). (memory/chezy-message-codes.md; Oct 20 2026, memory/quote-style.md)
+- Thumbtack: we do water treatment only. Decline anything else (regulators, water heaters, general plumbing) with "Job type doesn't match my preferences" and request a refund. Do not change profile preferences. (Oct 25 2026, m:594f44eb)
+- Creating a CRM lead starts the Speed to Lead automation on that contact, so creating a lead is an outward action. Never create one for a partner, builder, Israeli-tagged contact or bulk import unless needed. (Oct 18 2026, Bible rule)
+- Missed call: code texts unknown real callers "Hi, we saw your missed call. This is Water₂O. How can we help?" and known ones "Hey <Name>, saw I missed your call. How can I help?" Rules: section 12, Phone and texting. (replaces the Oct 20 wording, Oct 30 2026, m:86c78069)
+
+### Step 2: First contact
+- Read everything the customer already sent (messages, photos, models) first. Never ask for what they gave you, and never ask for a visit when usable photos are enough. (Bible 7)
+- Study the lead like a 35-year water expert. Ask 1 to 2 questions, not a form. Ask for a photo only if that expert would. (Oct 12 2026, memory/bible-conflicts.md)
+- For a softener: ask city, number of people, number of bathrooms; then offer the free in-home water test. Don't lead with technical detail (resin, GPD, valves) until they engage. (Bible 7)
+- Texts go from the CRM 310 line, never from Zeke's phone. The first text to anyone already in his contacts opens "Hey, it's Zeke, this is my work line." To someone already in conversation, never say "it's Water₂O" or "it's Zeke": just get to the point. (Oct 8 2026, m:d9865d84; Oct 21 2026; Oct 26 2026, m:091987fc)
+- Never text a customer before the email the text refers to. Hold any automated or scheduled text if the customer has an unanswered message. (Oct 19 to 20 2026, m:fe283843)
+- Israeli contacts: fewest words, least pitching, far fewer follow-ups, after deep research on their industry. (Oct 16 2026, m:2fd95e86; Oct 18 2026, m:b6b5c584)
+
+### Step 3: Free water test and site visit
+- Zeke (or the tech) visits, tests the water and films the plumbing, drain and electrical. The phone uploads photos and video automatically to the zeke@ Drive folder "Tab Camera Inbox". (memory/after-appointment-system.md)
+- After every appointment the scope, estimate and drafts build themselves: about 2 minutes after the booked end a VISIT CHECK pulls the media; one worker fills the job scope, note and draft estimate and drafts customer and installer texts for Zeke's OK, 30 to 45 minutes after the visit. Missing info goes to Zeke in one message, never into the scope. (Oct 19 2026; files/site-visit-pipeline/PIPELINE.md)
+- If no media lands within 2 hours, Zeke gets one line: "did you take photos? check Autosync". (PIPELINE.md)
+- The scope follows the style rules in section 8.
+
+### Step 4: Installer price
+- When Zeke says "send Jason", the approved text goes to Jason Sok (primary installer) through the CRM. No reply in 24 hours: a follow-up text. No reply at 36 hours: the scope goes to the backup installer and Zeke is told. A Jason reply cancels both. (Oct 19 2026, memory/after-appointment-system.md)
+
+### Step 5: Estimate
 - Build and send per section 6: one "Solution" tier, CRM draft, Zeke's OK, sent from the CRM with no total in the email. Quote within 24 hours of the visit. (Oct 19 to 21 2026)
 - Never quote an exact system without a test or clear photos. (section 6)
 
@@ -560,6 +600,7 @@ Until Zeke answers, follow the interim default shown and ask him with a draft be
 
 ## Changelog
 Older lines (v3.0 to v3.6, Oct 26 to Nov 2 2026, and the v1 and v2 history): appendix/13-open-questions-sources-history.md.
+- 2026-11-06 (Master Bible MD File, Zeke WhatsApp 12:51 AM and voice 12:52 AM, m:5e1ae9aa, m:e1f4866d): his 10 Instagram links and the Kokoro screenshot folded in. New in section 3: Dream AI stack (one line per link with verdict, the $616.70 a month savings summary). New in section 4: two laws (every IG link gets the full treatment; keep the MD current daily), Compliance and liability (Nov 6 2026 audit, 6 ranked risks with reply words), and the free editing tools for Claude.
 - 2026-11-05 (Master Bible MD File, Zeke WhatsApp 11:04 to 11:26 AM PT): section 13 rebuilt from the real record, 55 rows to 115 (banks and each card by last 4, payments and books, Google, phones, computers and installed apps, CRM and business tools, public profiles, AI agents, Tab's own lines, household, and what is still waiting on him); section 13 exempt from the word cap. New laws and the codes added at the end of section 4. The Master Bible is now one web link for agents (master-bible.html and master-bible.md) and a Google Doc in Drive.
 - 2026-11-03 (Master Bible MD File, Zeke voice m:9ece8925): version numbers dropped, the file is named by date. Added Nov 3 lessons: hybrid vs twin-tank rebed (corrected), the one-system commercial RO specialty, voice lessons from the Sam Mollaei email Zeke sent himself and the Happy Ice email, a consolidated design section, AnyDesk unattended phone access (how and why), Calendly, Handy, Lovable plan, LeTip Networking Presentation, care plan objection answer, full-balance scheduling, permits, check-before-you-say-it rules, and every library link in five views. The AI Tips list, Meta ads points and saved tactic links moved to appendix 16. The v3.7 line moved to appendix 13.
 
